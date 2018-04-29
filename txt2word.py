@@ -42,7 +42,13 @@ def txt2word(filein):
         raise IOError("Can't decode {}".format(filein))
 
     for l in open(filein, encoding=file_encoding):
-        for word in re_pattern.findall(l):
+        for match in re_pattern.finditer(l):
+            word = match.group()
+            start, end = match.span()
+            if start != 0 and l[start-1] == "'":
+                continue
+            if end != len(l) - 1 and l[end] == "'":
+                continue
             word = word.lower()
             if len(word) < 3:
                 continue

@@ -1,0 +1,2249 @@
+#0	/Users/bu/bio/proj/learn/python/txt2word/lib/S01E1.srt
+#1	/Users/bu/bio/proj/learn/python/txt2word/lib/S01E2.srt
+#2	/Users/bu/bio/proj/learn/python/txt2word/lib/S01E3.srt
+#3	/Users/bu/bio/proj/learn/python/txt2word/lib/S01E4.srt
+#4	/Users/bu/bio/proj/learn/python/txt2word/lib/S01E5.srt
+#5	/Users/bu/bio/proj/learn/python/txt2word/lib/S01E6.srt
+word           total	0	1	2	3	4	5	example
+abandoned      1	0	0	0	0	1	0	Up by a big abandoned rock quarry.
+able           3	1	0	1	1	0	0	Come on up when you're able.
+about          56	6	8	16	13	7	6	She'll bitch about global warming.
+abruptly       1	0	0	0	0	1	0	and 63 days since the disease abruptly went global.
+abuela         3	0	0	0	3	0	0	Abuela, go back with the others-- now.
+accepted       1	0	0	0	0	1	0	She accepted it, you know?
+accident       1	0	1	0	0	0	0	- It was an accident! - Don't leave me, man!
+accurate       1	1	0	0	0	0	0	Scope's accurate.
+across         2	0	0	0	2	0	0	Probably just came across some folks needing help, that's all.
+active         1	1	0	0	0	0	0	They're even more active after dark sometimes.
+actually       2	1	0	0	0	0	1	You know... I don't actually say that,tho.
+adamant        1	0	0	0	1	0	0	But he was always so adamant.
+add            1	0	0	0	0	1	0	I guess I'll just add it to the list of habits that I'm breaking
+adding         1	0	0	0	0	1	0	Without adding guilt into the mix, huh?
+admission      1	0	0	0	0	0	1	That's the price of admission.
+admit          2	0	0	0	1	1	0	Admit it, you only came back to Atlanta for the hat.
+adrenal        1	0	0	0	0	0	1	The adrenal glands hemorrhage,
+advice         1	0	1	0	0	0	0	Got any advice for me?
+advise         1	1	0	0	0	0	0	Highway 18, 85 Interstate, please advise.
+advised        1	1	0	0	0	0	0	Be advised, they have fired on police officers.
+aerosol        1	0	0	0	0	0	1	cocoists of a two-stage aerosol ignition
+affair         1	0	0	0	0	1	0	Like a week long affair.
+afford         2	2	0	0	0	0	0	Can't afford not to. Not anymore.
+afraid         4	2	1	0	0	0	1	Don't be afraid, OK?
+after          13	4	1	3	0	4	1	everything I say makes her impatient,like she didn't want to hear it after all.
+afterwards     1	0	0	0	1	0	0	Afterwards, we'll all meet back here.
+again          10	1	2	2	0	2	3	Try to raise him again.
+against        1	0	0	1	0	0	0	Maybe half a dozen geeks can squeeze against it
+ago            2	0	0	0	0	1	1	Wish I could have done it a month ago,
+agonizing      1	0	0	0	0	0	1	A short, brutal life and an agonizing death.
+agree          2	0	0	0	1	1	0	If I knew we'd get Glenn back, I might agree.
+ahah           1	1	0	0	0	0	0	Bring it, bring it bring it around ahah
+ahead          4	1	0	0	1	2	0	You feel that need, you go right ahead.
+ain            26	1	7	12	5	0	1	Gun shot ain't enough?
+air            8	2	0	0	0	1	5	Maybe it's the cool air or... Hell, maybe it's just me firing up that gun today.
+alarm          2	0	0	1	1	0	0	Well, the alarm was echoing all over these hills.
+albums         4	3	0	1	0	0	0	My photo albums, family pictures, all gone.
+alert          1	0	0	0	0	1	0	Alert status.
+alive          9	1	1	3	0	1	3	They're alive.
+all            167	12	22	34	32	36	31	It's like I... come home, house all lit up,
+alley          8	0	4	0	4	0	0	There's an alley up the street, maybe 50 yards.
+allows         1	0	0	0	0	1	0	If god allows,
+almost         4	0	0	0	0	2	2	We're almost there, baby.
+alone          11	1	0	2	6	0	2	Nobody goes anywhere alone, you know that.
+along          5	1	0	1	0	3	0	You sure you won't come along?
+already        2	0	1	0	0	0	1	How much time? They already got through one set of doors,
+alright        6	6	0	0	0	0	0	Alright, Reverend Shane's preaching to you now, boy.
+always         20	4	2	0	4	5	5	"Always,always yelling about the power bill,"
+ambulance      1	1	0	0	0	0	0	You get that ambulance down here,
+amen           2	2	0	0	0	0	0	- Amen. - Amen.
+ammo           4	1	1	1	1	0	0	Conserve your ammo.
+amps           1	0	0	0	0	1	0	Could have saved a lot of amps.
+amuse          1	1	0	0	0	0	0	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+amy            20	0	3	1	7	5	4	- Where you been? - Amy the mushroom queen--
+and            208	32	27	41	47	23	38	What's the difference between men and women?
+andrea         12	0	2	4	1	2	3	Just chill out, Andrea. Back off.
+anger          1	0	0	1	0	0	0	the anger and the bad times.
+angry          1	0	0	0	0	1	0	So angry.
+animal         1	0	0	1	0	0	0	We left him like an animal caught in a trap.
+anmoer         1	0	1	0	0	0	0	翻譯 anmoer 原子蛋
+annoying       1	0	0	0	0	0	1	Mom has that annoying habit.
+another        2	0	0	1	0	1	0	Maybe we'll get to steal another one someday.
+answer         5	2	0	0	2	1	0	You answer me, damn you!
+answers        2	0	0	0	0	1	1	Forget Fort Benning. We need answers tonight, now.
+any            19	0	4	4	3	5	3	Any luck?
+anybody        26	9	10	3	2	0	2	You know anybody could've broken in here and stolen clothes, right?
+anyhow         1	0	0	0	1	0	0	Bunch of old farts who are gonna die off momentarily anyhow?
+anymore        6	1	3	0	0	1	1	Can't afford not to. Not anymore.
+anyone         3	0	0	0	2	1	0	I don't want to alarm anyone,
+anything       20	5	1	2	1	6	5	What else? Anything?
+anyway         7	2	2	1	1	0	1	Anyway, uh... Polite version...
+anywhere       4	2	0	1	0	0	1	Nobody goes anywhere alone, you know that.
+apart          4	0	1	0	2	0	1	- Not apart.　- Screw you, man.
+apocalypse     1	0	0	0	1	0	0	Had I been informed of the impending apocalypse
+apology        1	0	0	1	0	0	0	No apology needed.
+apparently     1	1	0	0	0	0	0	and my job, apparently because...
+appearances    1	0	0	0	1	0	0	Appearances.
+appears        2	0	0	2	0	0	0	Look, I don't know how it appears to you
+applies        1	0	0	0	0	0	1	or anything that draws power. The same applies--
+apply          1	0	1	0	0	0	0	I don't think those rules apply anymore. Do you?
+appreciate     3	0	0	1	1	1	0	I appreciate the cooperation.
+approached     1	0	0	0	0	0	1	That started as we approached the half-hour mark.
+approaching    2	2	0	0	0	0	0	We'll be approaching Atlanta on Highway 85.
+are            101	6	17	22	18	17	21	"and you are still too damn stupid to learn how to turn off a switch?
+area           2	0	1	1	0	0	0	That area? --That's what I need cleared.
+aren           1	0	0	0	1	0	0	like Ed Peletier, aren't you?
+argue          2	0	0	0	1	0	1	Jim, I'm not here to argue with you, all right?
+arguing        2	0	0	1	1	0	0	I'm not arguing. I'm just saying.
+armed          1	0	0	0	0	1	0	It'll be heavily armed. We'd be safe there.
+army           1	0	0	0	0	1	0	Now if they exist, they're at the army base.
+around         15	1	3	2	5	2	2	Bring it, bring it bring it around ahah
+arrest         2	0	1	0	1	0	0	Arrest me?
+arrive         1	0	0	0	0	1	0	If you are, we'll be gone by the time you arrive.
+arrow          4	0	0	0	4	0	0	You get an arrow in the ass. Just so you know.
+art            1	0	0	1	0	0	0	And it is an art, my friend. It is not to be taken lightly.
+ashamed        1	0	0	1	0	0	0	- I'm not ashamed of it. - We were all scared.
+asian          2	0	0	0	2	0	0	But I've got asian. You interested?
+aside          1	0	1	0	0	0	0	- What else? - Aside from they hear you?
+ask            9	4	1	1	1	1	1	Look, I ask and you answer, It's common courtesy, right?
+asking         7	0	0	2	2	2	1	Are you asking me or telling me?
+aspirin        1	0	0	0	0	1	0	You go looking for aspirin, do what you need to do.
+ass            21	2	6	6	7	0	0	Man, you watch your ass.
+asses          1	0	0	0	1	0	0	Unload on their asses, ese.
+asshole        3	0	2	0	1	0	0	We're dead because of this stupid asshole.
+assistance     1	1	0	0	0	0	0	in progress Lincoln county units request local assistance.
+assorted       1	0	0	1	0	0	0	- Ammo?　- 700 rounds, assorted.
+asthma         2	0	0	0	2	0	0	He needs his asthma stuff.
+atlanta        15	5	1	5	2	1	1	They're in Atlanta, I'll bet.
+attaboy        2	0	2	0	0	0	0	Attaboy. Yeah.
+attack         3	0	0	0	1	1	1	- What the hell is this?　- An asthma attack.
+attacked       2	0	0	0	2	0	0	- Come on, man. - My people got attacked.
+attention      2	0	1	0	1	0	0	Don't draw attention.
+automated      1	0	0	0	0	1	0	It's an automated device. It's gears, okay?
+available      1	1	0	0	0	0	0	All available units, high speed pursuit
+away           14	2	3	2	4	3	0	Get away from the windows.
+awful          1	0	0	0	0	0	1	That's asking an awful lot these days.
+axe            1	0	1	0	0	0	0	Give me the axe.
+ayudame        4	0	0	0	4	0	0	- Ayudame! - Shut up!
+baby           13	2	1	4	3	2	1	- Is that right? - Yeah, baby.
+back           76	4	13	22	20	10	7	Sounds like they're chasing those idiots up and down every back road we got.
+backing        1	0	0	0	0	1	0	So you're backing him?
+bad            25	1	6	6	4	4	4	- That would be bad. - Yeah, go with the uh...
+bag            22	0	2	8	12	0	0	- Got ammo? - In that duffel bag I dropped out there,
+balls          2	0	0	0	1	1	0	You got some balls for a Chinaman.
+bandage        3	3	0	0	0	0	0	Hey, mister! What's that bandage for?
+bandwidth      1	0	0	1	0	0	0	date back to the '70s, don't match any other bandwidth--
+bank           1	1	0	0	0	0	0	My boy say you're a... bank robber...
+bare           1	0	0	1	0	0	0	you can strip that van down to the bare metal.
+barely         1	0	0	1	0	0	0	Yeah, looks don't deceive. I barely got them out,
+barred         1	0	0	0	1	0	0	So we barred all the windows,
+barricaded     1	0	1	0	0	0	0	Are you the one that barricaded the alley?
+base           4	0	3	0	0	1	0	Base camp, this is T-dog. Anybody hear me?
+based          1	0	0	0	0	1	0	If one of us suggested, based on a hunch,
+basement       1	0	0	0	0	0	1	The basement generators-- they run out of fuel.
+basically      1	0	0	0	0	0	1	Basically, it gets them up and moving.
+bastard        5	0	0	2	3	0	0	Are you crazy, driving this wailing bastard up here?
+bastards       1	0	0	0	1	0	0	What about 1,000 dead dumb bastards?
+bathroom       1	0	0	0	1	0	0	But most can't even get to the bathroom by themselves,
+beans          1	0	0	1	0	0	0	When you get down to that last can of beans,
+bearing        1	0	0	1	0	0	0	filthy, disease-bearing,
+beat           4	0	2	1	1	0	0	So you can beat my ass again?
+beats          1	0	0	0	1	0	0	Beats on him, threatens to cut off his feet,
+because        14	2	2	1	5	0	4	and my job, apparently because...
+bed            1	1	0	0	0	0	0	She died in the other room, on that bed...
+bedroom        1	1	0	0	0	0	0	I found empty drawers in the bedroom.
+bedtime        1	0	0	0	0	0	1	All right. Come on, kids, it's bedtime.
+been           31	6	3	5	5	7	5	you've been hearing this your entire　life
+before         15	3	0	6	2	1	3	Sit down,before you fall down.
+beg            3	0	0	3	0	0	0	I ain't gonna beg you now!
+begged         3	0	0	2	0	0	1	I ain't begged you before.
+begging        2	0	0	2	0	0	0	I ain't gonna start begging now.
+begin          2	0	0	2	0	0	0	I can't begin to express it.
+beginning      1	0	0	1	0	0	0	I'm beginning to question the division of labor here.
+behave         1	0	0	1	0	0	0	I didn't behave, I know.
+behavior       1	0	0	0	1	0	0	This was not behavior developed over time.
+behind         11	0	2	6	2	1	0	We'll be right behind you.
+being          10	0	0	4	3	2	1	I know I'm being punished.
+believe        7	3	1	2	0	1	0	This look and loathing you would not believe.
+bell           1	0	1	0	0	0	0	You just rang the dinner bell.
+belongs        2	0	0	1	0	1	0	It belongs in here.
+belt           1	0	0	0	1	0	0	He must have used a tourniquet-- maybe his belt.
+bender         1	0	1	0	0	0	0	Bad enough I've got this taco-bender on my ass all day.
+benning        3	0	0	0	0	3	0	- Fort Benning. - That's 100 miles in the opposite direction.
+benz           1	0	0	1	0	0	0	I miss my Benz, my sat nav.
+beretta        1	0	1	0	0	0	0	I've got a beretta with one clip,
+bessi          1	1	0	0	0	0	0	Leon Bessi?
+best           12	1	0	4	0	6	1	Come on, son. You know best how to work this thing,
+bet            9	3	1	1	1	2	1	Your gun shot... We got a little bet going.
+better         18	1	3	8	3	1	2	You got one better.
+between        4	2	0	0	0	1	1	What's the difference between men and women?
+big            7	0	2	1	1	1	2	welcome to the big city.
+bigger         1	0	1	0	0	0	0	Guess I'm an even bigger dumbass than you.
+biggest        1	0	0	0	1	0	0	That's a lie. That's the biggest lie there is.
+bill           1	1	0	0	0	0	0	"Always,always yelling about the power bill,"
+bills          1	0	1	0	0	0	0	worrying about bills
+birmingham     1	0	0	0	0	1	0	We have family in Birmingham.
+birth          1	0	0	0	0	0	1	does or thinks from the moment of birth
+birthday       3	0	0	0	1	2	0	It's Amy's birthday tomorrow.
+biscuits       1	0	1	0	0	0	0	They've got biscuits waiting at the oven for us.
+bit            15	4	0	4	2	3	2	Did you get bit?
+bitch          17	4	3	5	3	1	1	She'll bitch about global warming.
+bitches        1	0	0	0	1	0	0	They're the evilest, nastiest man-eating bitches you ever saw.
+bite           1	0	0	0	1	0	0	I think you have a bite.
+bites          1	1	0	0	0	0	0	Bites kill you.
+bitten         1	0	0	0	0	0	1	Someone who was bitten and infected...
+blade          1	0	0	0	1	0	0	I guess the saw blade was too dull for the handcuffs.
+blame          2	0	0	0	1	1	0	- You can't stop me. - I don't blame you.
+blames         1	0	0	0	0	1	0	Shane blames me for not being here.
+blaming        1	0	0	0	1	0	0	You had sunstroke. Nobody's blaming you.
+blast          1	0	0	0	0	0	1	that produces a blast wave of significantly greater power
+bleeding       2	0	0	0	1	1	0	He could be bleeding out. You said so yourself.
+blessing       1	1	0	0	0	0	0	Daddy... Blessing...
+blessings      1	1	0	0	0	0	0	Father,we thank thee for this food... Thy blessings...
+blind          1	1	0	0	0	0	0	They're struck blind the second they leave a room.
+blocks         3	0	0	0	3	0	0	We could help you check a few blocks around
+blood          8	0	0	0	5	1	2	Be much more blood if he didn't.
+blow           2	0	0	0	0	1	1	I think tomorrow I'm gonna blow my brains out.
+blowtorch      1	0	1	0	0	0	0	If we had a blowtorch and half a day, sure.
+blue           1	1	0	0	0	0	0	It's the blue one, down the street.
+boat           6	0	0	0	3	3	0	I only spent my entire childhood with my ass in a boat.
+bodies         2	0	0	0	0	2	0	I just got some on me from the bodies.
+body           1	0	0	1	0	0	0	They come back, we need every able body we've got.
+boil           1	0	0	1	0	0	0	Just a reminder to boil before use.
+bold           1	0	0	1	0	0	0	There was some mighty bold talk about catching frogs.
+bolt           2	0	0	2	0	0	0	Rumor is you have bolt cutters.
+bolted         2	0	0	0	0	0	2	the rest bolted.
+bolting        1	0	0	0	0	0	1	While our people were bolting out the doors
+bomb           1	0	0	0	0	1	0	The dead girl's a time bomb.
+bone           1	0	0	1	0	0	0	Could you throw me a bone here, man?
+bones          2	0	0	0	0	2	0	My bones--
+boobs          1	1	0	0	0	0	0	"maybe you, and every other pair of boobs on this planet
+book           1	0	0	0	0	0	1	I've already broken every rule in the book letting you in here.
+books          2	1	0	0	0	0	1	Read your comic books a while.
+booyah         3	0	0	0	0	0	3	- Hear hear! - Here's to you, doc. Booyah!
+born           3	1	1	0	1	0	0	They're born thinking the switch only goes one way.
+borrow         1	1	0	0	0	0	0	Can I borrow some gas?
+boss           2	0	1	0	1	0	0	Now that means I'm the boss, right?
+both           7	1	0	2	3	1	0	just figured out that the light switch see, goes both ways,"
+bothering      1	0	0	0	1	0	0	Ain't no need to be bothering me no more the rest of the night.
+bottom         1	0	0	1	0	0	0	You and that bag-- like the bottom of an old lady's purse.
+bowl           1	0	1	0	0	0	0	or the rent or the Super Bowl.
+box            1	0	0	0	0	1	0	The box is half full.
+boy            28	7	2	8	5	1	5	Alright, Reverend Shane's preaching to you now, boy.
+boys           2	0	0	0	2	0	0	I told that to my wife and my two boys.
+brain          10	1	1	1	0	1	6	Except for something in the brain.
+brains         1	0	0	0	0	1	0	I think tomorrow I'm gonna blow my brains out.
+break          5	0	0	2	1	1	1	It's not enough to break through that--
+breaking       1	0	0	0	0	1	0	I guess I'll just add it to the list of habits that I'm breaking
+breath         3	0	0	0	3	0	0	Couldn't get his breath all of a sudden.
+breathe        3	0	0	0	3	0	0	Nice and easy. Just breathe.
+breathing      1	0	0	0	1	0	0	Mr. Gilbert is having trouble breathing.
+breeze         1	0	0	0	0	1	0	The breeze feels nice.
+brian          1	0	0	0	0	0	1	the brian goes into shutdown,
+bright         1	0	1	0	0	0	0	The bright side:
+bring          14	5	1	4	1	1	2	They wanted me to bring them down, they send their love and they just...
+bringing       2	0	1	0	0	1	0	And you're bringing even more of them down on our ass!
+bro            1	0	1	0	0	0	0	I don't think so, bro. That'll be the day.
+broadcast      1	1	0	0	0	0	0	Huge, when they said it, before the broadcast stopped.
+broadcasting   3	3	0	0	0	0	0	Broadcasting on emergency channel.
+broken         2	1	0	0	0	0	1	You know anybody could've broken in here and stolen clothes, right?
+brother        13	0	0	6	4	1	2	- Daryl? - His brother.
+brought        1	0	0	0	0	1	0	If we hadn't gone off and brought those guns back
+browse         1	0	0	0	0	0	1	Baby, go say your prayers. I'm gonna browse a bit.
+bruises        1	0	0	1	0	0	0	So she can show up with fresh bruises later, Ed?
+brutal         1	0	0	0	0	0	1	A short, brutal life and an agonizing death.
+bucket         1	0	0	1	0	0	0	Come on, let's find this bucket.
+bud            5	1	0	1	1	0	2	Hey, bud... We're still here.
+buddy          4	2	1	0	0	1	0	Hey, hey, hey, come on, take a sit, buddy.
+building       4	0	2	0	1	0	1	Maybe not. Old building like this built in the '20s--
+built          3	0	1	1	1	0	0	Maybe not. Old building like this built in the '20s--
+bull           1	0	0	1	0	0	0	You don't want to keep prodding the bull here, okay?
+bullets        2	0	1	1	0	0	0	Man, you wasting bullets we ain't even got!
+bump           3	0	1	0	1	1	0	We go off somewhere and bump some uglies?
+bumped         1	1	0	0	0	0	0	One of them must've bumped a car...
+bunch          1	0	0	0	1	0	0	Bunch of old farts who are gonna die off momentarily anyhow?
+burn           2	0	0	0	0	2	0	We don't burn them!
+burned         1	0	0	0	1	0	0	What's that burned stuff?
+burning        1	0	0	0	0	1	0	I still think it's a mistake not burning these bodies.
+burns          1	1	0	0	0	0	0	The fever... burns you out.
+bury           2	0	0	0	0	2	0	We bury them.
+burying        1	0	0	0	0	1	0	Burying other people is bad enough,
+business       3	0	0	3	0	0	0	You should mind your own business for once.
+busting        1	0	0	0	1	0	0	Didn't stop him from busting out of this death trap.
+busy           4	0	0	0	2	1	1	'cause the dead were too busy eating my family.
+but            63	10	7	8	15	10	13	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+buzzkill       1	0	0	0	0	0	1	Dude, you are such a buzzkill, man.
+bye            2	0	0	0	0	2	0	Bye.
+cage           1	0	0	1	0	0	0	I cleaned out the cage back at the station before I left.
+cajun          1	0	0	1	0	0	0	Cajun-style kermit legs.
+calendar       1	0	0	0	1	0	0	I've been marking days on the calendar just to make sure.
+call           10	0	2	2	1	5	0	Call it foolish, naive hope
+called         1	1	0	0	0	0	0	- He called me Carl. - Son, you know they don't talk.
+calling        1	0	0	0	1	0	0	- You calling G a liar?　- Are you a part of this?
+callously      1	0	0	0	0	1	0	with callously killing a man.
+calls          1	1	0	0	0	0	0	Hello, hello, is the person who calls still on the air?
+calm           4	0	0	2	2	0	0	Calm down, son. That's not helping.
+came           12	1	2	1	4	3	1	Came home, that's all I know.
+camera         1	0	0	0	0	1	0	- Let's go. Move. - The camera-- it moved.
+camp           13	0	3	5	2	2	1	Base camp, this is T-dog. Anybody hear me?
+camped         1	0	0	0	0	1	0	We're camped a few miles northwest,
+can            122	13	25	24	17	29	14	Can you remember?
+cancer         1	0	0	0	0	1	0	- Cancer, wasn't it? - Yeah.
+cannot         2	1	0	0	0	1	0	You cannot walk off like that, all half-cocked.
+canoe          1	0	0	0	1	0	0	It's his canoe and gear.
+cans           1	0	0	0	0	1	0	We could hang some more tin cans.
+car            5	2	0	2	0	1	0	One of them must've bumped a car...
+caravan        1	0	0	0	0	1	0	That'll stop the caravan.
+care           9	2	0	0	3	2	2	Sometimes I wonder if you even care about us at all.
+cared          2	0	0	0	0	2	0	We all cared about her
+careful        1	0	0	0	0	1	0	But be careful.
+carefully      3	1	0	2	0	0	0	We gotta do it carefully, teach you to respect the weapon.
+careless       1	1	0	0	0	0	0	Careless and dumb, but... can't leave him like this.
+carl           25	10	0	8	3	1	3	Certainly not in front of Carl.
+carlito        1	0	0	0	1	0	0	Carlito didn't find it.
+carnal         1	0	0	0	1	0	0	They're gonna cut off my feet, Carnal.
+carol          9	0	0	3	3	2	1	Hey, Carol, Sophia, how are y'all this evening?
+carries        1	0	1	0	0	0	0	- You hear me?!　- Yeah, your voice carries.
+carry          1	0	0	0	0	0	1	that carry all the messages.
+cars           4	0	0	1	1	2	0	not even the scanners in our cars.
+case           3	0	2	0	0	0	1	into the sewers in case of flooding down in the subbasements.
+catastrophic   1	0	0	0	0	0	1	In the event of a catastrophic power failure--
+catch          7	0	1	4	2	0	0	They see you, smell you and if they catch you, they eat you.
+catching       1	0	0	1	0	0	0	There was some mighty bold talk about catching frogs.
+caucasians     1	1	0	0	0	0	0	Suspects are two male Caucasians.
+caught         2	0	0	2	0	0	0	- I've caught a frog before. - I said frogs-- plural.
+cause          5	2	1	1	1	0	0	cause I then gotta walk through that house,
+cauterized     1	0	0	0	1	0	0	He cauterized the stump.
+caution        1	1	0	0	0	0	0	Proceed with extreme caution.
+celebrating    1	0	0	0	0	0	1	- Where are they? - We're celebrating, Shane.
+center         4	1	3	0	0	0	0	Center for Disease Control.
+certainly      1	1	0	0	0	0	0	Certainly not in front of Carl.
+certainty      1	0	0	0	0	1	0	Tell me something with certainty.
+chain          5	0	0	5	0	0	0	or take it up the chain if you're a pussy.
+chained        1	0	0	1	0	0	0	Look, I chained the door to the roof--
+chamber        1	1	0	0	0	0	0	Make sure you got a round in the chamber and your safety off.
+chance         11	0	1	2	0	3	5	If you move now while they're distracted, you stand a chance.
+change         5	1	1	1	1	1	0	Well pissing me all you want won't gonna change anything.
+changed        3	1	0	0	2	0	0	Got that bandage changed out.
+changing       1	0	0	0	1	0	0	But that'd be like changing his religion or something.
+channel        4	2	0	0	0	2	0	Broadcasting on emergency channel.
+charge         2	0	1	0	0	1	0	Talk about who's in charge.
+chases         1	1	0	0	0	0	0	like World's craziest police chases, what do you think?
+chasing        2	1	1	0	0	0	0	Sounds like they're chasing those idiots up and down every back road we got.
+chatter        1	0	0	0	0	1	0	Let's keep the chatter down, okay?
+chd            6	1	1	1	1	1	1	CHD版個人美化微修：字幕雷哥
+cheated        1	0	0	0	0	1	0	I felt so cheated.
+check          8	0	1	0	3	0	4	Hey, Glenn, check the alley.
+checked        1	0	0	0	0	1	0	125. I checked the map.
+chemos         1	0	0	0	0	1	0	And after all the surgeries and the chemos,
+chest          1	0	0	0	0	0	1	I even took my ear and I put it on his chest
+chewed         2	1	0	1	0	0	0	Chewed. Maybe scratch?
+chick          2	2	0	0	0	0	0	turn off every single light this chick left on.
+child          1	1	0	0	0	0	0	She's the mother of my child.
+childhood      1	0	0	0	1	0	0	I only spent my entire childhood with my ass in a boat.
+children       3	0	0	0	1	1	1	...Because of you my children will eat tonight.
+chill          6	0	2	0	4	0	0	Just chill out, Andrea. Back off.
+china          1	0	0	0	1	0	0	Are you heading to China, Jim?
+chinaman       2	0	0	0	1	1	0	You got some balls for a Chinaman.
+choice         3	0	0	0	0	1	2	The C.D.C. is our best choice and Jim's only chance.
+chokehold      1	0	0	1	0	0	0	Chokehold's illegal.
+choose         1	0	0	1	0	0	0	- Hey, choose your words more carefully.　- No, I did.
+chop           1	0	0	0	1	0	0	I'm gonna chop up your boy. I'm gonna feed him to my dogs.
+chopping       1	0	1	0	0	0	0	Keep chopping.
+chores         1	1	0	0	0	0	0	- Go finish your chores. - Okay.
+chose          1	0	0	0	0	0	1	You chose the hard path.
+christ         4	0	0	3	0	1	0	No no, merciful christ!
+chromosomes    1	1	0	0	0	0	0	because my chromosomes happen to be different
+chuck          1	0	0	0	0	1	0	how far do you think I can chuck this, huh?
+cigarettes     1	0	0	1	0	0	0	Sitting on your ass smoking cigarettes?
+cindy          1	1	0	0	0	0	0	This place... It's Fred and Cindy Drake's.
+cities         1	0	0	1	0	0	0	They're moving out of the cities.
+city           15	2	5	2	2	4	0	We're just outside the city.
+clammed        1	0	0	0	0	0	1	I don't like the way Jenner clammed up.
+claustrophobic 1	0	0	0	0	0	1	Are you claustrophobic?
+clean          4	0	1	1	1	1	0	You the new sheriff come riding in to clean up the town?
+cleaned        1	0	0	1	0	0	0	I cleaned out the cage back at the station before I left.
+clear          5	0	0	0	1	4	0	No, I'm pretty clear.
+cleared        1	0	1	0	0	0	0	That area? --That's what I need cleared.
+climbed        1	0	1	0	0	0	0	on the tank but the others have climbed down
+clinch         1	0	0	0	1	0	0	Clinch knots?
+clinical       1	0	0	0	0	1	0	There's no clinical progress to report.
+clint          1	0	1	0	0	0	0	Nice moves there, Clint Eastwood.
+clip           1	0	1	0	0	0	0	I've got a beretta with one clip,
+clock          2	0	0	0	0	0	2	That clock--
+close          8	0	0	0	3	3	2	You keep your boy close.
+closed         3	1	0	0	0	0	2	You think I was the most closed mouth
+closer         3	0	2	1	0	0	0	Get closer. Get closer. Come on. Come on.
+closes         1	0	0	0	0	0	1	Once this door closes, it stays closed.
+closest        4	0	0	3	0	1	0	I guess that comes closest.
+clothes        3	2	0	1	0	0	0	They packed some clothes.Not a lot.
+cloudburst     1	0	1	0	0	0	0	It's just a cloudburst.
+club           1	0	0	1	0	0	0	This ain't no comedy club.
+cocked         1	1	0	0	0	0	0	You cannot walk off like that, all half-cocked.
+cocky          2	0	0	2	0	0	0	You're getting cocky now, a little bit.
+cocoists       1	0	0	0	0	0	1	cocoists of a two-stage aerosol ignition
+code           1	1	0	0	0	0	0	Dispatch, Unit 1, Unit 3, we are 10-97 in code 100.
+coffeemaker    1	0	0	1	0	0	0	I miss my coffeemaker
+cold           3	0	0	3	0	0	0	It's cold, man.
+collection     1	1	0	0	0	0	0	I hope you left her that spoon collection.
+college        3	0	0	1	1	1	0	just 'cause you're some college-educated cooze,
+color          1	0	0	0	1	0	0	Wrapping paper, color tissue, anything?
+coma           1	0	0	1	0	0	0	in some coma dream,
+come           151	20	40	24	23	13	31	It's like I... come home, house all lit up,
+comedy         1	0	0	1	0	0	0	This ain't no comedy club.
+comes          4	0	1	3	0	0	0	so you can shoot that cop when he comes back up, huh?
+comfortable    1	0	0	0	0	0	1	The couches are comfortable,
+comic          1	1	0	0	0	0	0	Read your comic books a while.
+coming         16	1	1	7	1	3	3	You're coming through. Over.
+command        1	0	0	1	0	0	0	Take it up the damn chain of command
+committing     1	0	0	0	0	0	1	and committing suicide in the hallways,
+common         3	1	2	0	0	0	0	Look, I ask and you answer, It's common courtesy, right?
+communications 1	0	0	0	0	0	1	Communications, directives-- all of it.
+company        1	0	0	0	1	0	0	Keep your daddy company.
+compassionate  1	0	0	0	0	0	1	more compassionate to just hold your loved ones
+compensation   1	0	0	0	1	0	0	Where's the compensation for their pain and suffering?
+competition    1	0	0	1	0	0	0	Guys, it's not a competition.
+complaint      1	0	0	1	0	0	0	You can file a complaint.
+complete       1	0	0	0	0	1	0	Full decontamination complete.
+completely     1	0	0	0	0	0	1	- But that's insane! - no, it's completely sane.
+computer       1	0	0	1	0	0	0	My computer...
+computers      2	0	0	0	0	0	2	computers running to the last possible second.
+concerned      2	0	1	0	1	0	0	I don't mind telling you I'm a little concerned in here.
+concerns       1	0	0	1	0	0	0	Nothin' that concerns you.
+conditioning   1	0	0	0	0	0	1	the air conditioning stopped.
+confusion      1	0	0	1	0	0	0	Fear, confusion-- all those things but...
+connect        1	0	0	1	0	0	0	Our plan was to connect when they got closer.
+conquer        1	0	0	0	1	0	0	and not spend all of your breath trying to conquer it."
+conserve       1	1	0	0	0	0	0	Conserve your ammo.
+consider       1	0	0	0	0	1	0	You gotta really consider whether you want to
+considered     1	0	1	0	0	0	0	Would it be considered looting?
+construction   1	0	1	0	0	0	0	That construction site,
+contact        1	0	1	0	0	0	0	Hey, T-dog, try that C.B. Can you contact the others?
+control        4	1	0	1	1	0	1	Center for Disease Control.
+conversation   2	0	0	2	0	0	0	are you sure you want to have this conversation, man?
+convinced      1	0	0	0	0	1	0	These people, man, they're not convinced.
+cook           1	0	0	1	0	0	0	cook us up some venison.
+cooked         1	0	0	0	1	0	0	Your mama's right. Sun just cooked my head is all.
+cool           3	2	0	1	0	0	0	Would be kind of cool to get on one of them shows.
+cooler         1	1	0	0	0	0	0	Feels cooler now.
+cooling        1	0	0	0	1	0	0	Cooling you down, huh?
+cooperation    1	0	0	1	0	0	0	I appreciate the cooperation.
+cooze          1	0	0	1	0	0	0	just 'cause you're some college-educated cooze,
+cop            4	0	3	1	0	0	0	You wouldn't. You're a cop.
+cops           1	0	0	0	1	0	0	Cops do that?
+cordon         1	0	0	0	0	0	1	when the military cordon got overrun,
+corporal       1	0	0	0	0	0	1	Come on, corporal. Move out!
+corral         1	0	1	0	0	0	0	Not shooting up the streets like it's the O.K.Corral.
+corrosive      2	0	0	0	0	2	0	Air qualifiers indicate corrosive fumes.
+cost           1	0	0	1	0	0	0	Oh, that's what them teeth cost me.
+costs          1	0	0	0	0	1	0	They'd protect the C.D.C. At all costs, wouldn't they?
+cots           1	0	0	0	0	0	1	But there are cots in storage if you like.
+couches        1	0	0	0	0	0	1	The couches are comfortable,
+could          40	3	0	9	11	6	11	The least you could do is speak.
+couldn         8	3	0	2	2	0	1	My wife... couldn't travel.
+count          3	0	1	1	0	0	1	- 15 rounds. - Make 'em count.
+counting       1	0	0	0	0	0	1	It's counting down.
+country        1	0	0	0	0	0	1	Ebola strains that could wipe out half the country!
+county         3	3	0	0	0	0	0	in progress Lincoln county units request local assistance.
+couples        1	1	0	0	0	0	0	Look, man, that's just shit couples go through.
+course         1	0	0	1	0	0	0	Of course.
+courtesy       1	1	0	0	0	0	0	Look, I ask and you answer, It's common courtesy, right?
+cousin         1	0	0	0	1	0	0	That hillbilly jumps Felipe's little cousin,
+cover          2	0	0	0	1	0	1	I got you in both places to cover me.
+covering       1	0	1	0	0	0	0	watching those doors, covering our ass.
+covers         1	0	1	0	0	0	0	You see any manhole covers?
+cozy           1	1	0	0	0	0	0	Cozy in there?
+cracker        2	0	1	1	0	0	0	Next time let the cracker beat his ass.
+crap           6	1	2	2	1	0	0	I'm mean watching the same crap every time I come in here.
+craziest       1	1	0	0	0	0	0	like World's craziest police chases, what do you think?
+crazy          7	2	1	3	1	0	0	We ask you to watch over us in these crazy days.
+creek          1	0	1	0	0	0	0	that if I'm ever that far up shit creek,
+crew           2	0	0	0	2	0	0	What about the rest of your crew?
+crossbow       1	0	0	0	1	0	0	Your crossbow is quieter than his gun.
+crosses        1	0	0	0	1	0	0	See, now that's what happens when someone crosses you.
+crossing       1	0	0	0	0	1	0	Crossing 100 miles of hostile territory?
+crowded        1	0	1	0	0	0	0	Okay, the street on the other side of the tank is less crowded.
+cruel          1	1	0	0	0	0	0	I would never say something that cruel to her.
+cry            1	1	0	0	0	0	0	Cry into the pillow.
+crying         2	0	0	0	2	0	0	No crying in the boat.
+cube           2	0	0	1	0	1	0	Now that cube van of yours--
+cuffed         1	0	0	1	0	0	0	I cuffed him. That makes it mine.
+cuffs          2	0	2	0	0	0	0	What say you get me out of these cuffs,
+cure           1	0	0	0	0	1	0	I heard the C.D.C. Was working on a cure.
+custodian      1	0	0	0	1	0	0	I'm the custodian.
+cut            10	0	3	2	5	0	0	Whoa, cut it out, man!
+cutters        2	0	0	2	0	0	0	Rumor is you have bolt cutters.
+dad            18	2	0	5	10	1	0	- Dad? - Yeah?
+daddy          9	7	0	1	1	0	0	Daddy, daddy!
+dah            1	0	1	0	0	0	0	Dah!
+dale           18	0	3	5	3	1	6	Dale, I'm heading out.
+damage         1	0	0	0	0	0	1	and damage to structures is desired.
+damn           27	5	6	8	3	3	2	"You sound just like my damn father.
+damned         1	0	0	1	0	0	0	I'll be damned.
+damp           1	0	0	1	0	0	0	They're still a little damp.
+danger         3	1	0	1	1	0	0	I'm not putting you in danger, okay?
+dare           1	0	0	1	0	0	0	How dare you? Why would you be?
+dark           6	1	1	0	0	1	3	They're even more active after dark sometimes.
+darling        1	1	0	0	0	0	0	quote from the Guy Gospel and say "Um, darling?"
+daryl          20	0	0	6	7	2	5	Except maybe Daryl.
+date           1	0	0	1	0	0	0	date back to the '70s, don't match any other bandwidth--
+daughter       2	0	0	0	1	0	1	You're scaring my son and Carol's daughter.
+dawn           2	1	0	0	0	1	0	I'll turn mine on, a few minutes every day at dawn.
+day            22	3	7	4	5	2	1	I'll turn mine on, a few minutes every day at dawn.
+days           10	2	0	1	2	2	3	We ask you to watch over us in these crazy days.
+dead           30	4	6	1	3	11	5	I'm gonna smack him dead.
+deadly         1	1	0	0	0	0	0	Deadly as Dillinger Kapow.
+deaf           2	0	0	1	1	0	0	You ain't deaf.
+deal           4	1	1	1	0	1	0	Atlanta sounds like a good deal.
+death          6	0	0	1	1	0	4	- I'll beat you to death, Ed. - Ed!
+debt           2	0	0	1	0	1	0	I owe a debt to a man I met and his little boy.
+deceive        1	0	0	1	0	0	0	Yeah, looks don't deceive. I barely got them out,
+decide         1	0	0	0	1	0	0	They see how things are and most decide to stay.
+decided        1	0	0	0	0	1	0	I haven't decided.
+decision       1	0	0	0	0	1	0	My decision.
+declared       1	0	0	0	0	1	0	It's day 194 since Wildfire was declared
+decontamination5	0	0	0	0	2	3	Full decontamination in effect.
+deemed         1	0	0	0	0	1	0	Corrosive element is deemed poisonous if inhaled.
+deep           2	0	1	0	1	0	0	We're in some deep shit.
+deer           2	0	0	2	0	0	0	That's my deer!
+define         1	0	0	0	0	0	1	- Vi, define. - HITs--
+degree         1	0	0	0	1	0	0	It's 100 degree today. You can't keep this up.
+degrees        1	0	0	0	0	0	1	between 5,000 and 6,000 degrees
+delirious      1	0	0	0	0	1	0	The fever-- you've been delirious more often than not.
+delivered      1	0	0	0	1	0	0	Delivered pizzas. Why?
+democracy      1	0	1	0	0	0	0	Huh? Democracy time, y'all.
+dent           1	0	0	0	0	0	1	Can't make a dent.
+department     2	0	2	0	0	0	0	We're trapped in the department store.
+deployed       1	0	0	0	0	0	1	H.I.T.s are deployed to prevent any organisms from getting out.
+deputy         1	1	0	0	0	0	0	Sheriff's deputy
+deserve        3	0	0	2	0	0	1	Oh, I deserve it. I deserve it.
+designed       2	0	0	0	0	0	2	It's designed to keep the
+desire         1	0	0	0	1	0	0	of all hope and desire,
+desired        1	0	0	0	0	0	1	and damage to structures is desired.
+desperate      1	0	0	0	0	1	0	Please, we're desperate.
+determine      1	0	0	0	0	0	1	They determine everything a person says
+devastating    1	0	0	0	0	0	1	I know how devastating it is.
+developed      1	0	0	0	1	0	0	This was not behavior developed over time.
+device         1	0	0	0	0	1	0	It's an automated device. It's gears, okay?
+diane          1	1	0	0	0	0	0	Linda and Diane from dispatch, they picked these out.
+did            35	5	6	8	4	5	7	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+didn           35	6	1	6	10	1	11	We didn't have a great night.
+die            8	0	2	2	2	0	2	- Gonna die anyway.　- I'd rather.
+died           8	2	1	3	0	0	2	She died in the other room, on that bed...
+dies           1	0	0	0	0	0	1	- It's too late. - He dies, we all--
+difference     3	2	0	0	0	1	0	What's the difference between men and women?
+different      5	1	1	0	3	0	0	because my chromosomes happen to be different
+differently    1	0	0	0	0	1	0	If it was your family, you'd feel differently.
+digging        2	0	0	0	2	0	0	- So? - So why are you digging?
+dignity        1	0	0	1	0	0	0	with some manly dignity and
+dillinger      1	1	0	0	0	0	0	Deadly as Dillinger Kapow.
+dinner         3	0	1	0	1	0	1	You just rang the dinner bell.
+dios           2	0	2	0	0	0	0	Madre de dios!
+direction      3	0	1	0	1	1	0	keep going in that direction.
+directives     1	0	0	0	0	0	1	Communications, directives-- all of it.
+dirt           1	0	0	1	0	0	0	Dirt.
+disagree       1	0	0	0	0	1	0	We may disagree on some things,
+discreet       1	0	0	0	1	0	0	Jeez, you try to be discreet around here--
+discuss        1	0	0	0	0	1	0	To discuss some things with your mom, okay?
+discussion     4	0	0	2	2	0	0	I don't see a rational discussion to be had from that, do you?
+disease        4	2	0	1	0	1	0	Plus they got that disease place.
+disgrace       1	0	0	0	1	0	0	- They are a disgrace. - I, uh,
+disoriented    3	0	0	3	0	0	0	Disoriented.
+dispatch       2	2	0	0	0	0	0	Dispatch, Unit 1, Unit 3, we are 10-97 in code 100.
+dispel         1	0	0	1	0	0	0	Is there a gray area here? Let me dispel it.
+distance       3	0	1	1	0	1	0	Stay within shouting distance.
+distinct       1	0	1	0	0	0	0	They smell dead, we don't. It's pretty distinct.
+distract       1	0	1	0	0	0	0	Can we distract them again?
+distracted     2	0	2	0	0	0	0	If you move now while they're distracted, you stand a chance.
+diversion      1	0	1	0	0	0	0	A diversion, like on "Hogan's heroes."
+division       1	0	0	1	0	0	0	I'm beginning to question the division of labor here.
+dixon          12	0	7	5	0	0	0	Oh no. Is that Dixon?
+doc            4	0	0	0	0	0	4	- Hear hear! - Here's to you, doc. Booyah!
+dock           1	1	0	0	0	0	0	Out on the loading dock, hauling trucks.
+doctor         2	0	0	0	0	1	1	I dragged her to every doctor,
+doctors        5	0	0	0	1	0	4	What are you, doctors?
+does           8	0	0	2	1	0	5	The cold don't change the rules, does it?
+doesn          9	0	0	3	0	2	4	What he would or wouldn't do doesn't interest me.
+dog            12	0	7	0	2	1	2	Hey, T-dog, try that C.B. Can you contact the others?
+dogs           3	0	1	0	2	0	0	Right, like dogs. They hear a sound, they come.
+doing          13	2	5	2	2	1	1	A lot of good it's been doing.
+don            148	14	26	33	34	16	25	Don't be afraid, OK?
+done           13	1	0	4	0	3	5	I haven't done this for years.
+donor          1	0	1	0	0	0	0	he was an organ donor.
+door           10	0	1	3	0	0	6	- Let's go! - Open the door!
+doors          9	0	4	0	1	0	4	watching those doors, covering our ass.
+dot            1	0	1	0	0	0	0	Little red dot means it's ready to fire.
+doubling       1	0	0	1	0	0	0	The guns would mean doubling back.
+doubt          2	0	0	2	0	0	0	- Please? Just one? - Yeah, I doubt that.
+douche         3	0	0	2	1	0	0	Why would you risk your life for a douche bag like Merle Dixon?
+down           70	15	12	4	5	10	24	Sounds like they're chasing those idiots up and down every back road we got.
+dozen          3	0	0	3	0	0	0	Maybe half a dozen geeks can squeeze against it
+dozens         1	0	0	0	1	0	0	They came out of nowhere. There were dozens of'em.
+drag           1	0	0	1	0	0	0	Gonna drag it back to camp,
+dragged        2	0	0	0	1	1	0	Here's the alley I dragged you into when we first met.
+dragons        1	0	1	0	0	0	0	Unicorns, dragons.
+drain          1	0	0	1	0	0	0	Well, I dropped it in a drain.
+drainage       1	0	1	0	0	0	0	Big structures often had drainage tunnels
+drake          1	1	0	0	0	0	0	This place... It's Fred and Cindy Drake's.
+draw           4	0	2	1	0	1	0	Don't draw attention.
+drawers        1	1	0	0	0	0	0	I found empty drawers in the bedroom.
+drawing        2	0	1	0	1	0	0	And I'm drawing the geeks away how? I-- I missed that part.
+drawn          1	0	1	0	0	0	0	- God. Give it a rest. - They're drawn by sound, right?
+draws          2	1	0	0	0	0	1	The sound draws them,now they're all over the street.
+dream          4	0	1	1	2	0	0	There's no refugee center. That's a pipe dream.
+dreamt         1	0	0	0	1	0	0	Something I dreamt last night.
+dress          1	1	0	0	0	0	0	Dwayne... Dress in room back there.
+drink          2	0	0	0	1	0	1	Drink some water at least.
+drinking       1	0	0	0	0	0	1	Keep drinking, little man.
+drip           1	0	0	1	0	0	0	with that dual-drip filter
+drive          3	0	0	2	0	1	0	Thought I'd get to drive it at least a few more days.
+driven         1	0	0	0	0	0	1	Just a shell driven by mindless instinct.
+driving        2	0	0	1	1	0	0	Are you crazy, driving this wailing bastard up here?
+drop           1	0	0	1	0	0	0	Generators need every drop of fuel they can get.
+dropped        8	0	2	6	0	0	0	- Got ammo? - In that duffel bag I dropped out there,
+dropping       1	0	0	0	0	0	1	The system is dropping all the nonessential uses of power.
+drums          1	0	0	0	0	0	1	and more empty fuel drums than I can count.
+drunk          4	0	0	0	0	1	3	I'm getting drunk.
+dry            3	0	0	1	2	0	0	The sun'll have'em dry in no time.
+dual           1	0	0	1	0	0	0	with that dual-drip filter
+duct           2	0	0	0	0	2	0	It's more duct tape than hose.
+dude           3	0	0	0	2	0	1	He cut off some dude's hand, man. He showed it to me.
+duffel         1	0	1	0	0	0	0	- Got ammo? - In that duffel bag I dropped out there,
+dug            1	0	0	0	1	0	0	Why I dug the holes.
+dull           1	0	0	0	1	0	0	I guess the saw blade was too dull for the handcuffs.
+dumb           6	2	2	0	2	0	0	Careless and dumb, but... can't leave him like this.
+dumbass        2	0	2	0	0	0	0	You're still a dumbass.
+dumbest        1	0	0	0	1	0	0	You're the dumbest son of a bitch I ever met.
+dunlap         1	0	1	0	0	0	0	Wayne Dunlap.
+duration       1	0	0	0	0	0	1	and duration than any other known explosive except nuclear.
+during         1	0	0	0	0	1	0	I got scratched during the attack.
+dutiful        1	0	0	0	0	1	0	Look, it may be time for you to play the dutiful wife,
+dwayne         8	8	0	0	0	0	0	Get the light,Dwayne.
+dwell          1	0	0	1	0	0	0	Best not to dwell on it.
+dying          2	0	0	1	0	0	1	The guy wouldn't give you a glass of water if you were dying of thirst.
+ear            1	0	0	0	0	0	1	I even took my ear and I put it on his chest
+earns          1	1	0	0	0	0	0	Still man, that... that earns me this.
+ease           3	0	2	0	1	0	0	Come on, ease up.
+easier         2	0	0	0	0	0	2	- it would've been so much easier. - Easier for who?
+east           1	0	0	0	0	1	0	in the east sector shut down to save power.
+eastwood       1	0	1	0	0	0	0	Nice moves there, Clint Eastwood.
+easy           14	8	1	1	1	1	2	Easy now, easy.
+eat            6	2	1	2	1	0	0	Here. Eat.
+eaten          2	0	0	0	1	0	1	I thought you were being eaten by dogs, man.
+eating         2	0	0	0	2	0	0	'cause the dead were too busy eating my family.
+ebola          1	0	0	0	0	0	1	Ebola strains that could wipe out half the country!
+echoing        1	0	0	1	0	0	0	Well, the alarm was echoing all over these hills.
+edge           1	0	0	0	0	1	0	- Rick--　- We're at the ragged edge here.
+educated       1	0	0	1	0	0	0	just 'cause you're some college-educated cooze,
+edwin          2	0	0	0	0	0	2	Dr. Edwin Jenner.
+effect         2	0	0	0	0	1	1	Full decontamination in effect.
+eggs           2	0	0	0	0	0	2	Eggs. Powdered, but-- but I do 'em good.
+eight          1	0	0	0	0	0	1	The longest we heard of was eight hours.
+einstein       1	0	0	0	0	0	1	In our field, she was an Einstein.
+either         5	0	2	1	0	2	0	No dumb-as-shit, inbred white-trash fools either.
+electric       1	0	0	0	0	0	1	electric impulses in the brain
+element        1	0	0	0	0	1	0	Corrosive element is deemed poisonous if inhaled.
+else           13	1	4	4	0	3	1	What else? Anything?
+elsewhere      1	0	0	0	1	0	0	You got us elsewhere?
+embarrassment  1	0	0	0	0	1	0	Saves me the embarrassment.
+embers         1	0	0	1	0	0	0	Keep our fires low, just embers.
+emergency      4	2	0	0	0	0	2	Broadcasting on emergency channel.
+emotional      1	0	0	0	0	1	0	The chinaman gets all emotional,
+empty          5	2	0	1	0	0	2	It was empty when we got here.
+encountered    1	0	0	0	1	0	0	The people we've encountered since things fell apart,
+end            7	1	1	0	1	1	3	By the end, Dwayne will know how to shoot and I won't be so rusty.
+ended          1	0	0	1	0	0	0	The world ended. Didn't you get the memo?
+ending         1	0	0	0	0	0	1	I'm not ending up like Jim and Amy.
+energy         1	0	0	0	0	0	1	Energy use is being prioritized.
+engineering    1	0	0	0	0	1	0	Too bad I never studied engineering.
+enhanced       1	0	0	0	0	0	1	Enhanced internal view.
+enjoy          1	0	0	0	0	0	1	There's a rec room down the hall that you kids might enjoy.
+enough         18	4	4	4	1	2	3	Gun shot ain't enough?
+enter          1	0	0	0	0	1	0	Do not enter the city.
+entire         3	1	0	0	1	1	0	you've been hearing this your entire　life
+entirely       2	0	1	0	0	1	0	Not that was entirely unjustified.
+entrance       2	0	0	0	1	0	1	Welded all the doors shut except for one entrance.
+ese            2	0	0	0	2	0	0	Let's just shoot these fools right now, ese. All right?
+especially     1	1	0	0	0	0	0	Goes faster than you think. Especially at target practice.
+even           23	3	3	4	7	3	3	Sometimes I wonder if you even care about us at all.
+evening        1	0	0	1	0	0	0	Hey, Carol, Sophia, how are y'all this evening?
+event          7	0	1	0	0	0	6	If bad ideas were an Olympic event,
+ever           26	3	2	4	6	2	9	I mean every woman, I ever let have a key, I swear to God.
+every          24	6	1	8	4	3	2	I mean every woman, I ever let have a key, I swear to God.
+everybody      18	1	2	3	2	4	6	Everybody pitched in on these. They uh...
+everything     14	1	1	2	0	1	9	everything I say makes her impatient,like she didn't want to hear it after all.
+everywhere     1	0	0	0	0	0	1	It was a massacre. There were walkers everywhere.
+evil           1	0	1	0	0	0	0	That is just evil. What is wrong with you?
+evilest        1	0	0	0	1	0	0	They're the evilest, nastiest man-eating bitches you ever saw.
+eww            2	0	0	2	0	0	0	- You ever eat frog legs? - Eww!
+exactly        1	0	0	0	1	0	0	I know exactly how you feel.
+example        1	0	0	0	0	0	1	in a terrorist attack, for example--
+except         6	1	0	1	2	0	2	Except for something in the brain.
+excited        1	0	0	0	0	1	0	She'd call all excited.
+exist          1	0	0	0	0	1	0	Now if they exist, they're at the army base.
+exits          1	0	0	0	0	0	1	The emergency exits are sealed.
+exorcist       1	1	0	0	0	0	0	And that's when the exorcist voice pops out.
+experiences    1	0	0	0	0	0	1	experiences, memories.
+explain        1	0	0	1	0	0	0	Can someone explain to me how the
+explosive      1	0	0	0	0	0	1	and duration than any other known explosive except nuclear.
+explosives     1	0	0	0	0	0	1	high-impulse thermobaric fuel-air explosives
+exposing       1	0	0	0	0	1	0	- Exposing them to all kinds of risks?　- As opposed to what?
+exposure       1	0	0	1	0	0	0	Thirst and exposure.
+express        2	1	0	1	0	0	0	Do you express your thoughts?
+extinction     1	0	0	0	0	0	1	This is our extinction event.
+extraordinary  1	0	0	0	0	0	1	- Is that a brain?　- An extraordinary one.
+extreme        1	1	0	0	0	0	0	Proceed with extreme caution.
+eye            1	0	0	0	0	0	1	I'll have to keep my eye on you.
+eyes           6	0	2	0	0	4	0	You've got eyes on the outside here.
+face           9	0	1	2	2	0	4	Sorry for the gun in your face.
+faced          1	0	0	0	0	0	1	Man, I'm gonna get soon faced drunk again.
+faces          1	0	0	0	0	1	0	Well, look at their faces.
+facilities     1	0	0	0	0	0	1	There are others, right? Other facilities?
+facility       2	0	0	0	0	0	2	Most of the facility is powered down
+facing         1	0	1	0	0	0	0	facing the street-- meet us there and be ready.
+fail           1	1	0	0	0	0	0	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+failure        2	0	0	0	0	1	1	Not your failure.
+fair           2	0	0	2	0	0	0	It's not fair of me to ask-- I know that--
+faith          1	0	0	0	1	0	0	Don't take that on faith. He's lost a lot of blood.
+fall           5	1	1	1	0	0	2	Sit down,before you fall down.
+falling        2	0	0	1	0	0	1	There go those words falling short again.
+familiarized   1	0	0	0	0	0	1	There were plenty left lying around. I familiarized myself.
+families       1	0	0	0	0	0	1	Went off to be with their families.
+family         15	1	1	2	4	7	0	My photo albums, family pictures, all gone.
+fancy          1	1	0	0	0	0	0	Nothing fancy.
+far            16	1	4	3	2	5	1	Just shot, as far as I know.
+farts          1	0	0	0	1	0	0	Bunch of old farts who are gonna die off momentarily anyhow?
+fascinate      1	0	0	0	1	0	0	You fascinate me.
+fashioned      1	0	0	1	0	0	0	Just going to have to do this the old-fashioned way.
+fast           2	1	0	0	1	0	0	It all happened so fast...
+faster         1	1	0	0	0	0	0	Goes faster than you think. Especially at target practice.
+father         4	2	0	0	2	0	0	"You sound just like my damn father.
+faulkner       2	0	0	0	2	0	0	It's not me. It's Faulkner.
+fault          4	0	0	2	2	0	0	it is nobody's fault but Merle's.
+favor          3	0	2	0	1	0	0	All in favor? Huh?
+fear           1	0	0	1	0	0	0	Fear, confusion-- all those things but...
+feed           3	0	0	1	2	0	0	You and me, we'll be heroes. We'll feed these folks
+feeding        2	0	2	0	0	0	0	and joined the feeding frenzy where the horse went down.
+feel           9	2	1	3	1	1	1	I make you feel like
+feeling        2	0	0	0	1	1	0	Hey, Jim. How you feeling, man?
+feelings       2	1	0	0	1	0	0	You share your feelings and that kind of stuff?
+feels          3	2	0	0	0	1	0	Feels cooler now.
+feet           4	0	0	0	4	0	0	Start with the feet this time.
+felipe         9	0	0	0	9	0	0	That hillbilly jumps Felipe's little cousin,
+fell           2	0	0	1	1	0	0	Well, I'm not surprised after Atlanta fell.
+fella          1	0	0	0	1	0	0	Fella named Glenn.
+felt           2	0	0	1	0	1	0	I felt like I'd been ripped out of my life
+fess           1	1	0	0	0	0	0	Fess up.
+fever          6	3	0	0	0	2	1	Fever would have killed you by now.
+few            15	4	1	3	2	2	3	Went off a few minutes.
+fewer          1	0	0	0	0	1	0	And we have fewer people.
+fidget         1	0	0	1	0	0	0	Baby, the more you fidget, the longer it takes.
+field          1	0	0	0	0	0	1	In our field, she was an Einstein.
+fight          1	0	0	0	0	1	0	Don't fight.
+fighting       1	0	0	0	0	1	0	for fighting for us.
+figure         1	0	0	0	0	1	0	but it took me that long to figure it out.
+figured        3	1	1	1	0	0	0	just figured out that the light switch see, goes both ways,"
+figuring       1	0	0	0	0	0	1	that were supposed to be figuring out what happened.
+file           2	0	0	1	0	0	1	You can file a complaint.
+filter         1	0	0	1	0	0	0	with that dual-drip filter
+filthy         2	0	1	1	0	0	0	Do you hear me, you filthy pig?!
+finally        1	0	0	0	0	1	0	Item-- I finally got the scrubbers
+find           17	3	5	2	5	1	1	No, not with our herds, so we had to find a place to lay low.
+finding        1	0	0	1	0	0	0	Walking into our home, finding an empty house,
+fine           15	3	1	5	3	2	1	But we'll be fine long as we stay quiet.
+finger         2	0	2	0	0	0	0	Make your "P" the other way-- around your finger.
+finish         1	1	0	0	0	0	0	- Go finish your chores. - Okay.
+fire           6	0	1	2	2	0	1	Little red dot means it's ready to fire.
+fired          2	2	0	0	0	0	0	Be advised, they have fired on police officers.
+fires          1	0	0	1	0	0	0	Keep our fires low, just embers.
+firing         1	1	0	0	0	0	0	Maybe it's the cool air or... Hell, maybe it's just me firing up that gun today.
+first          18	1	1	3	3	4	6	But I guess if this is the first you're hearing, I know how it must sound...
+fish           7	0	0	0	7	0	0	He knew that you needed to catch the fish
+fisherman      1	0	0	0	1	0	0	Why would he do that? He only ever used a fisherman's knot.
+fishing        2	0	0	0	2	0	0	I mean, you know dad on the fishing thing.
+fit            3	1	0	1	1	0	0	Streets won't fit to be on, and then we'll...
+five           3	0	0	1	1	1	0	Yeah, five of 'em.
+fixing         1	0	0	0	0	1	0	but you can't tell me that fixing your marriage
+flag           1	0	1	0	0	0	0	Trying to flag the helicopter.
+flames         1	0	0	0	1	0	0	See? So the flames can be a little higher
+flesh          2	1	0	0	0	1	0	Try to eat you, take him some flesh at least.
+flooding       1	0	1	0	0	0	0	into the sewers in case of flooding down in the subbasements.
+florida        1	0	0	0	1	0	0	Maybe Florida wasn't hit so bad.
+focus          1	0	0	1	0	0	0	And you ought to focus on your work.
+focused        1	1	0	0	0	0	0	What I think, Leon, is that you need to stay focused.
+folks          5	1	0	2	1	1	0	Folks got no idea what they're getting into.
+follow         4	0	0	1	1	2	0	They said they'd follow me to Atlanta.
+food           9	3	0	1	3	2	0	Father,we thank thee for this food... Thy blessings...
+fooling        1	0	1	0	0	0	0	I'm not fooling, man! Morales!
+foolish        2	0	1	1	0	0	0	Call it foolish, naive hope
+fools          2	0	1	0	1	0	0	No dumb-as-shit, inbred white-trash fools either.
+for            97	12	17	10	20	23	15	Hey, mister! What's that bandage for?
+force          1	0	0	0	1	0	0	The kind that take by force.
+forever        1	0	1	0	0	0	0	That glass won't hold forever.
+forget         3	0	1	0	1	1	0	Forget the bag, okay? It's not an option.
+fort           4	0	0	0	0	4	0	- Fort Benning. - That's 100 miles in the opposite direction.
+forward        2	0	0	0	1	0	1	I'll go forward instead,
+fossil         1	0	0	0	0	0	1	The world runs on fossil fuel.
+fought         1	0	0	0	1	0	0	Mine too. We'd have fought back.
+found          9	2	0	3	0	1	3	- I found you... - Daddy, I got this sumbitch.
+four           8	0	1	6	0	0	1	I'm back. Got a guest plus four geeks in the alley.
+framed         1	1	0	0	0	0	0	You see the framed photos on the walls?
+france         2	0	0	0	0	0	2	And in France.
+freak          1	0	1	0	0	0	0	You'd be having a major freak-out.
+fred           1	1	0	0	0	0	0	This place... It's Fred and Cindy Drake's.
+french         1	0	0	0	0	0	1	- It was the French. - what?
+frenzy         1	0	1	0	0	0	0	and joined the feeding frenzy where the horse went down.
+fresh          3	0	0	1	1	1	0	So she can show up with fresh bruises later, Ed?
+freshest       1	0	0	0	0	1	0	They were our freshest samples by far.
+friend         4	0	0	2	1	0	1	And it is an art, my friend. It is not to be taken lightly.
+friendly       2	0	2	0	0	0	0	- Who the hell are you, man?!　- Officer friendly.
+friends        3	0	1	0	2	0	0	Raise your friends. Tell them to get down there and be ready.
+frog           3	0	0	3	0	0	0	- I've caught a frog before. - I said frogs-- plural.
+frogs          8	0	0	8	0	0	0	I will teach you to catch frogs.
+from           42	5	8	11	8	6	4	quote from the Guy Gospel and say "Um, darling?"
+front          9	3	2	1	1	1	1	She said that in front of our kid.
+frontal        1	0	0	0	0	0	1	The frontal lobe, the neocortex,
+froze          1	1	0	0	0	0	0	I guess we just froze in place.
+fry            1	0	0	0	1	0	0	Big ol' fish fry.
+fuel           6	0	0	1	0	1	4	Generators need every drop of fuel they can get.
+full           5	0	1	1	0	3	0	I'm a glass-half-full kind of guy.
+fully          1	0	0	0	1	0	0	I don't think you fully appreciate the gravity of the situation.
+fumes          1	0	0	0	0	1	0	Air qualifiers indicate corrosive fumes.
+fungal         1	0	0	0	0	0	1	It could be microbial, viral, parasitic, fungal.
+funny          2	0	0	1	0	1	0	What's so funny?
+furnace        1	1	0	0	0	0	0	Her skin gave off heat like a furnace...
+further        1	0	0	0	0	1	0	Not further out to sea.
+gack           1	0	1	0	0	0	0	Gack!
+gain           1	0	1	0	0	0	0	parley, as long as there's some kind of mutual gain involved.
+gamble         1	0	0	1	0	0	0	Sounds like more of a gamble.
+games          1	0	0	0	0	0	1	Just don't plug in the video games, okay?
+gas            4	2	0	0	0	2	0	Gas and light have been down for maybe a month.
+gathered       1	0	0	0	0	1	0	None of the other samples we gathered even came close.
+gave           2	1	0	0	1	0	0	Her skin gave off heat like a furnace...
+gear           2	1	0	0	1	0	0	Here I am, packing survival gear, she's grabbing photo albums....
+gears          1	0	0	0	0	1	0	It's an automated device. It's gears, okay?
+gee            1	0	0	0	1	0	0	Gee, you think?
+geek           2	0	2	0	0	0	0	There's one geek still up
+geeks          10	0	5	3	1	1	0	Whoever did it was thinking not many geeks would get through.
+gene           1	1	0	0	0	0	0	Did you steal it from your Grandma Gene's house.
+generations    1	0	0	0	1	0	0	that had been handed down through generations.
+generators     3	0	0	1	0	0	2	Generators need every drop of fuel they can get.
+gentle         1	0	0	0	0	1	0	And I promise we'll be as gentle as we can.
+geography      1	0	0	1	0	0	0	You know the geography. It's your call.
+georgia        1	0	1	0	0	0	0	Georgia license.
+get            120	10	22	32	20	7	29	Hey, we'll get them on one of those video shows, you know,
+gets           8	0	2	2	1	1	2	Ask Shane when he gets back?
+getting        13	1	2	3	3	1	3	Folks got no idea what they're getting into.
+gift           2	0	1	0	1	0	0	It was a gift. Why?
+gilbert        2	0	0	0	2	0	0	Mr. Gilbert is having trouble breathing.
+girl           11	4	1	2	1	3	0	Little girl?
+girls          1	0	0	0	0	1	0	You girls were the first people...
+give           18	1	3	4	8	1	1	I'll go. Give me a vehicle.
+given          2	0	0	1	1	0	0	Have you given any thought to Daryl Dixon?
+giving         1	0	1	0	0	0	0	You're giving me a headache, boy.
+glad           1	0	0	0	1	0	0	Well, I'm glad it didn't go down that way.
+glands         1	0	0	0	0	0	1	The adrenal glands hemorrhage,
+glass          5	0	2	1	0	1	1	I'm a glass-half-full kind of guy.
+glasses        1	1	0	0	0	0	0	For him, you need glasses, that was a walker.
+glenn          12	0	4	1	6	0	1	Glenn. You're welcome.
+global         3	2	0	0	0	1	0	She'll bitch about global warming.
+gloves         1	0	1	0	0	0	0	Everybody got gloves?
+gnarly         1	0	1	0	0	0	0	If you want me to go down this gnarly hole, fine--
+gnawed         1	0	0	1	0	0	0	Look at it. All gnawed on by this...
+god            43	1	10	17	6	5	4	I mean every woman, I ever let have a key, I swear to God.
+godod          1	0	0	1	0	0	0	God! Godod
+goes           7	4	2	0	0	0	1	They're born thinking the switch only goes one way.
+going          19	5	3	3	3	1	4	Imagine going to school with that in your head.
+gold           3	0	1	0	2	0	0	- This would take the gold. - He's right.
+golden         1	0	0	1	0	0	0	You take this stupid hat and go back to "On Golden Pond"?
+gone           14	3	2	2	0	4	3	My photo albums, family pictures, all gone.
+gonna          74	3	14	19	20	6	12	I'm gonna smack him dead.
+good           29	9	5	3	6	2	4	She's good. She's good at turning off lights.
+gospel         1	1	0	0	0	0	0	quote from the Guy Gospel and say "Um, darling?"
+got            99	12	21	27	17	15	7	Sounds like they're chasing those idiots up and down every back road we got.
+gotta          8	3	2	2	0	1	0	cause I then gotta walk through that house,
+gotten         1	0	0	1	0	0	0	Something had to be done or he'd have gotten us killed.
+gouge          1	0	0	0	0	1	0	Their roots will gouge the whole boat.
+government     1	0	0	0	0	1	0	If there's any government left, any structure at all,
+grab           4	0	1	0	1	1	1	In and out, grab a few things-- no problem.
+grabbing       1	1	0	0	0	0	0	Here I am, packing survival gear, she's grabbing photo albums....
+grandma        1	1	0	0	0	0	0	Did you steal it from your Grandma Gene's house.
+grandmother    1	0	0	0	1	0	0	And take your grandmother with you.
+grandparents   1	0	0	0	1	0	0	The vatos trickle in to check on their parents, their grandparents.
+grandson       1	0	0	0	1	0	0	I'm not here to arrest your grandson.
+grateful       2	0	0	1	0	0	1	I can't tell you how grateful I am to you, Shane.
+grave          1	0	0	0	0	1	0	You save a grave for me?
+graveyard      1	0	0	0	0	1	0	You led us into a graveyard!
+gravity        1	0	0	0	1	0	0	I don't think you fully appreciate the gravity of the situation.
+gray           1	0	0	1	0	0	0	Is there a gray area here? Let me dispel it.
+great          3	1	1	1	0	0	0	We didn't have a great night.
+greater        1	0	0	0	0	0	1	that produces a blast wave of significantly greater power
+greatest       1	0	0	0	0	0	1	and is used when the greatest loss of life
+grid           1	0	0	0	0	0	1	No power grid.
+grief          1	0	0	0	0	0	1	An end to sorrow, grief...
+grimes         3	0	0	2	0	0	1	- Who are you?　- Rick Grimes.
+grinder        1	0	0	1	0	0	0	and built-in grinder, honey.
+ground         1	0	0	1	0	0	0	Spit his teeth out on the ground.
+group          6	1	2	0	2	0	1	but in a group all round up and hungry...
+gtaad          2	2	0	0	0	0	0	18號公路以南　GTAAD記錄 217 243以西
+guarantees     1	0	0	0	0	1	0	There are no guarantees either way.
+guess          13	3	3	2	3	1	1	I don't know why sometimes we guess.
+guest          1	0	1	0	0	0	0	I'm back. Got a guest plus four geeks in the alley.
+guests         2	0	0	0	0	0	2	Vi, say hello to our guests.
+guillermo      2	0	0	0	2	0	0	- G? - Guillermo.
+guilt          1	0	0	0	0	1	0	Without adding guilt into the mix, huh?
+gun            21	11	7	1	1	1	0	- Gun, gun, gun. - Put it down!
+gunfire        1	0	0	0	0	0	1	Maybe it was gunfire. I don't know what it was,
+guns           24	0	1	9	12	2	0	And guns. Can I get to it?
+gut            1	0	0	0	0	1	0	I was just telling Shane I think we should trust your gut.
+guts           1	0	1	0	0	0	0	- We need-- we need more guts. - Oh god!
+guy            8	1	1	5	1	0	0	quote from the Guy Gospel and say "Um, darling?"
+guys           8	0	1	1	3	1	2	Don't leave me here, you guys.
+habit          3	0	1	0	0	1	1	I can see you make a habit of missing the point.
+habits         2	0	0	0	0	2	0	I guess I'll just add it to the list of habits that I'm breaking
+hacksaw        3	0	3	0	0	0	0	Hey, see that hacksaw over there in that toolbag?
+had            29	1	5	7	7	2	7	No, not with our herds, so we had to find a place to lay low.
+hadn           2	0	0	1	0	1	0	Lori, if they hadn't taken me in,
+haircuts       1	0	0	1	0	0	0	wishing for one of your mama's haircuts.
+half           11	1	2	2	2	2	2	You cannot walk off like that, all half-cocked.
+hall           1	0	0	0	0	0	1	There's a rec room down the hall that you kids might enjoy.
+hallucination  1	0	1	0	0	0	0	- Ain't no damn helicopter. - You were chasing a hallucination,
+hallways       2	0	0	0	0	0	2	They were slaughtering people in the hallways.
+hammer         1	0	0	0	1	0	0	Feed him a hammer, he'd crap out nails.
+hamstring      1	0	0	0	0	1	0	Let that girl hamstring us?
+hand           4	0	1	0	3	0	0	those trucks, they always keep keys on hand.
+handcuff       1	0	1	0	0	0	0	That asshole is out on the street with the handcuff keys?
+handcuffed     4	0	0	3	1	0	0	and he's still up there, handcuffed on that roof.
+handcuffs      2	0	0	1	1	0	0	we'll need to cut that chain and the handcuffs.
+handed         2	0	0	0	2	0	0	One handed.
+handguns       1	0	0	1	0	0	0	two high-powered rifles, over a dozen handguns.
+hands          8	0	1	2	3	0	2	Show of hands, huh?
+hang           2	0	1	0	0	1	0	- What do you have on you? - Hang on.
+hanging        1	1	0	0	0	0	0	We're still hanging in.
+hangover       1	0	0	0	0	0	1	Protein helps the hangover. -
+happen         2	2	0	0	0	0	0	because my chromosomes happen to be different
+happened       14	4	0	3	2	0	5	Shane, you do not tell Lori that happened.
+happening      4	0	1	0	0	0	3	Hey, what's happening, man?
+happens        8	0	2	0	2	0	4	- imagining things. It happens. - I saw it.
+happy          2	0	0	2	0	0	0	He won't be happy to hear his brother was left behind.
+hard           7	2	0	2	1	1	1	Be hard to miss.
+harder         1	0	0	1	0	0	0	Well, try harder.
+hardly         1	0	0	0	0	1	0	- No food, hardly any gas left. - Rick.
+harmless       1	0	0	0	0	0	1	But you look harmless enough.
+has            5	2	0	0	1	0	2	That vase has something special.
+hasn           1	0	0	0	0	0	1	She hasn't eaten in days.
+hat            2	0	0	1	1	0	0	You take this stupid hat and go back to "On Golden Pond"?
+hate           3	0	0	1	0	1	1	I hate that you're doing this, man.
+hattie         1	0	0	1	0	0	0	women wound up doing all the Hattie Mcdaniel work?
+hauling        1	1	0	0	0	0	0	Out on the loading dock, hauling trucks.
+have           90	17	8	15	19	15	16	I mean every woman, I ever let have a key, I swear to God.
+haven          6	2	0	1	0	2	1	Haven't worked up to it yet.
+having         4	0	1	2	1	0	0	You'd be having a major freak-out.
+head           15	3	1	0	4	4	3	Imagine going to school with that in your head.
+headache       2	0	2	0	0	0	0	You're giving me a headache, boy.
+heading        4	1	1	0	1	1	0	That's where we were heading.
+heads          1	0	0	0	1	0	0	Wouldn't piss on them if their heads were on fire.
+hear           37	11	11	3	2	5	5	son of a bitch you'd ever hear to hear her tell it.
+heard          14	1	2	4	0	4	3	I thought I heard him say something.
+hearing        5	2	1	0	1	1	0	you've been hearing this your entire　life
+hears          2	1	0	0	1	0	0	Anybody out there? Anybody hears me, please respond.
+heartbeat      1	0	0	0	0	0	1	And I listened for a heartbeat and I did not hear one.
+heat           3	1	0	0	1	0	1	Her skin gave off heat like a furnace...
+heavily        1	0	0	0	0	1	0	It'll be heavily armed. We'd be safe there.
+helicopter     4	0	3	1	0	0	0	Trying to flag the helicopter.
+hell           44	5	11	8	10	3	7	I saw you get tagged, man, it scared the hell out of me.
+hello          24	12	6	1	0	0	5	Hello. Hello.
+hells          1	0	0	1	0	0	0	- Yeah. Yeah. - Hells yeah. Give me your mean face.
+help           23	2	1	4	5	8	3	Nurse, help.
+helping        3	0	0	2	1	0	0	Do you think I could have a second helping, please?
+helps          2	0	0	0	1	0	1	He helps people.
+hemorrhage     1	0	0	0	0	0	1	The adrenal glands hemorrhage,
+her            25	7	2	6	0	7	3	son of a bitch you'd ever hear to hear her tell it.
+herds          1	1	0	0	0	0	0	No, not with our herds, so we had to find a place to lay low.
+here           138	20	16	22	33	24	23	You get that ambulance down here,
+heroes         3	0	1	2	0	0	0	A diversion, like on "Hogan's heroes."
+hesitate       1	0	0	0	1	0	0	I won't hesitate.
+hey            65	12	20	12	8	6	7	Hey, we'll get them on one of those video shows, you know,
+hick           1	0	0	0	1	0	0	Merle? What kind of hick name is that?
+hidden         1	0	0	0	1	0	0	and have 'em be hidden.
+hide           1	0	0	1	0	0	0	Hell if I'm gonna hide from him.
+high           3	1	0	1	0	0	1	All available units, high speed pursuit
+higher         1	0	0	0	1	0	0	See? So the flames can be a little higher
+highway        4	4	0	0	0	0	0	Highway 18 south GTAAD W217 243.
+hillbilly      1	0	0	0	1	0	0	That hillbilly jumps Felipe's little cousin,
+hills          1	0	0	1	0	0	0	Well, the alarm was echoing all over these hills.
+him            70	11	4	20	23	6	6	I'm gonna smack him dead.
+himself        1	0	0	0	1	0	0	He have his trouble but he pull himself together.
+hinted         1	0	0	0	0	0	1	I never even hinted, just--
+his            37	3	3	7	19	3	2	William. He said his name today...
+hit            8	0	0	0	2	2	4	Maybe Florida wasn't hit so bad.
+hits           1	0	0	0	0	0	1	- Vi, define. - HITs--
+hmm            3	1	2	0	0	0	0	You probably could tell, hmm?
+hogan          1	0	1	0	0	0	0	A diversion, like on "Hogan's heroes."
+hold           8	0	1	1	2	2	2	That glass won't hold forever.
+hole           1	0	1	0	0	0	0	If you want me to go down this gnarly hole, fine--
+holes          1	0	0	0	1	0	0	Why I dug the holes.
+holler         1	0	1	0	0	0	0	And if you see anything, holler. I'll come running.
+holy           2	1	0	1	0	0	0	Holy shit.
+home           6	3	0	2	0	1	0	It's like I... come home, house all lit up,
+homes          2	0	0	0	2	0	0	- Shut up. - Hey, that's that vato right there, homes.
+homie          1	0	0	0	1	0	0	and his little bastard homie friends.
+honey          1	0	0	1	0	0	0	and built-in grinder, honey.
+honeybunch     1	0	1	0	0	0	0	Hey, honeybunch,
+hood           3	0	0	3	0	0	0	Pop the hood, please. Pop the damn hood,
+hook           1	0	0	0	1	0	0	But in my day it was all about getting the hook seated.
+hooked         2	0	0	1	0	0	1	so I handcuffed him on a roof, hooked him to a piece of metal.
+hope           17	4	1	2	2	3	5	They hope you come back real soon.
+hoping         3	0	1	0	1	0	1	I'm hoping to hear somebody's voice
+horn           1	0	0	0	0	1	0	you're gonna hit your horn one time.
+horse          1	0	1	0	0	0	0	and joined the feeding frenzy where the horse went down.
+horses         1	1	0	0	0	0	0	Food, shelter, people, other horses too, I bet.
+hose           5	0	1	2	0	2	0	Boy, that hose isn't long for this world, is it?
+hospital       4	1	0	3	0	0	0	In a hospital.
+host           2	0	0	0	0	0	2	It seems to me we haven't thanked our host properly.
+hostage        1	0	0	0	1	0	0	My people got attacked and you show up with Miguel hostage--
+hostile        1	0	0	0	0	1	0	Crossing 100 miles of hostile territory?
+hot            4	1	0	0	0	1	2	Hot water!
+hour           1	0	0	0	0	0	1	That started as we approached the half-hour mark.
+hours          4	0	0	0	1	1	2	Dale says you've been out here for hours.
+house          4	3	0	1	0	0	0	It's like I... come home, house all lit up,
+housing        1	0	0	0	0	0	1	Including housing, so you'll have to make do here.
+how            53	11	6	11	11	6	8	I never met a woman who knew how to turn off a light.
+huge           1	1	0	0	0	0	0	Huge, when they said it, before the broadcast stopped.
+huh            18	0	5	4	5	2	2	We're gonna have ourselves a little powwow, huh?
+human          4	0	1	1	0	0	2	You can't, man. It's not human.
+hunch          1	0	0	0	0	1	0	If one of us suggested, based on a hunch,
+hundreds       1	0	1	0	0	0	0	Hundreds of 'em. We're surrounded.
+hungover       1	0	0	0	0	0	1	- Morning. - Are you hungover?
+hungry         1	1	0	0	0	0	0	but in a group all round up and hungry...
+hunkered       1	1	0	0	0	0	0	We just stayed hunkered down.
+hunt           1	0	0	1	0	0	0	when he gets back from his hunt.
+hurl           1	0	1	0	0	0	0	- I am so gonna hurl. - Later.
+hurry          1	0	1	0	0	0	0	- get us back up here in a hurry. - Okay.
+hurt           8	2	1	1	3	0	1	No, no, no, no... He's hurt!
+hurting        2	0	0	0	2	0	0	What does it matter? I'm not hurting anyone.
+husband        5	0	0	2	0	2	1	Your husband did what was necessary.
+idea           5	1	0	0	2	1	1	Folks got no idea what they're getting into.
+ideas          1	0	1	0	0	0	0	If bad ideas were an Olympic event,
+idiot          2	0	0	1	1	0	0	And then this idiot, he takes a swing,
+idiots         1	1	0	0	0	0	0	Sounds like they're chasing those idiots up and down every back road we got.
+ignites        1	0	0	0	0	0	1	The vacuum-pressure effect ignites the oxygen
+ignition       1	0	0	0	0	0	1	cocoists of a two-stage aerosol ignition
+illegal        1	0	0	1	0	0	0	Chokehold's illegal.
+imagine        1	1	0	0	0	0	0	Imagine going to school with that in your head.
+imagined       1	0	0	0	0	1	0	- You imagined it. - It moved.
+imagining      1	0	1	0	0	0	0	- imagining things. It happens. - I saw it.
+impatient      1	1	0	0	0	0	0	everything I say makes her impatient,like she didn't want to hear it after all.
+impending      1	0	0	0	1	0	0	Had I been informed of the impending apocalypse
+important      2	0	0	0	1	1	0	Time-- it's important to keep track, isn't it?
+impulse        1	0	0	0	0	0	1	high-impulse thermobaric fuel-air explosives
+impulses       1	0	0	0	0	0	1	electric impulses in the brain
+inbred         1	0	1	0	0	0	0	No dumb-as-shit, inbred white-trash fools either.
+including      1	0	0	0	0	0	1	Including housing, so you'll have to make do here.
+indicate       1	0	0	0	0	1	0	Air qualifiers indicate corrosive fumes.
+individual     1	0	0	0	1	0	0	which will fit your individual needs
+infected       4	0	0	0	0	1	3	What's the difference? They're all infected.
+informed       1	0	0	0	1	0	0	Had I been informed of the impending apocalypse
+inhaled        1	0	0	0	0	1	0	Corrosive element is deemed poisonous if inhaled.
+injury         1	0	0	0	1	0	0	He can't get far with that injury.
+insane         1	0	0	0	0	0	1	- But that's insane! - no, it's completely sane.
+instead        3	0	0	0	1	1	1	I'll go forward instead,
+instinct       1	0	0	0	0	0	1	Just a shell driven by mindless instinct.
+instincts      1	0	0	0	0	1	0	I trust his instincts.
+intention      1	0	1	0	0	0	0	- It wasn't my intention. - Yeah, whatever. Yeehaw.
+intentions     1	0	0	0	1	0	0	with just my good intentions, okay?
+interest       1	0	0	1	0	0	0	What he would or wouldn't do doesn't interest me.
+interested     1	0	0	0	1	0	0	But I've got asian. You interested?
+internal       1	0	0	0	0	0	1	Enhanced internal view.
+intersection   1	1	0	0	0	0	0	Roger that. We're 5 minutes out on the route 18 intersection.
+interstate     2	2	0	0	0	0	0	18, 2 miles west of Interstate 85
+into           19	3	5	4	1	4	2	Cause he would have ripped into you.
+invades        1	0	0	0	0	0	1	It invades the brain like meningitis.
+investment     1	0	0	1	0	0	0	Think of the bolt cutters as an investment.
+involved       1	0	1	0	0	0	0	parley, as long as there's some kind of mutual gain involved.
+isn            11	0	2	2	1	2	4	Boy, that hose isn't long for this world, is it?
+italy          2	0	0	0	0	0	2	You know, in Italy,
+item           2	0	0	0	0	2	0	Item-- I finally got the scrubbers
+its            1	1	0	0	0	0	0	Station got its own propane system.
+itself         2	0	0	0	0	0	2	It's not up to me. Zone 5 is shutting itself down.
+jacqui         2	0	2	0	0	0	0	You be my wingman. Jacqui stays here.
+jammed         1	0	1	0	0	0	0	I don't want you all jammed up behind me getting me killed.
+jeez           3	0	2	0	1	0	0	Oh Jeez.
+jenner         9	0	0	0	0	1	8	Jenner here.
+jesus          11	0	0	6	1	1	3	God! Jesus!
+jim            28	0	0	0	16	10	2	Jim? You okay?
+jimbo          1	0	0	0	0	1	0	Wake up, Jimbo. We've got some work to do.
+job            4	1	1	2	0	0	0	and my job, apparently because...
+jobs           1	0	1	0	0	0	0	Okay, everybody knows their jobs.
+john           1	1	0	0	0	0	0	Shane, you in the john?
+join           2	0	0	0	2	0	0	Why don't you come join in with the rest of us?
+joined         1	0	1	0	0	0	0	and joined the feeding frenzy where the horse went down.
+joke           1	1	0	0	0	0	0	- Is this a joke? - No, serious.
+jorge          1	0	0	0	1	0	0	The bag Felipe and Jorge were going back to get.
+judge          1	0	0	0	1	0	0	He is not judge and jury. Who voted you king boss, huh?
+juice          1	0	0	0	0	0	1	Ran out of juice.
+jump           1	0	1	0	0	0	0	Jump off the right side of the tank,
+jumped         2	0	0	0	2	0	0	Came out of nowhere and jumped me.
+jumps          1	0	0	0	1	0	0	That hillbilly jumps Felipe's little cousin,
+jury           2	0	0	0	1	1	0	He is not judge and jury. Who voted you king boss, huh?
+just           146	19	13	35	28	19	32	just figured out that the light switch see, goes both ways,"
+kapow          1	1	0	0	0	0	0	Deadly as Dillinger Kapow.
+keel           1	0	0	0	1	0	0	You keep this up, you're gonna keel over out here.
+keep           31	0	4	3	8	8	8	keep going in that direction.
+keeping        2	0	1	0	1	0	0	I bet. That's what you get for keeping me waiting.
+keeps          1	0	0	0	1	0	0	Still, it keeps the crew busy,
+kept           7	0	0	0	0	1	6	I kept 'em safe, man.
+kermit         1	0	0	1	0	0	0	Cajun-style kermit legs.
+key            7	1	3	3	0	0	0	I mean every woman, I ever let have a key, I swear to God.
+keys           2	0	2	0	0	0	0	those trucks, they always keep keys on hand.
+kick           1	0	0	0	1	0	0	I'm gonna kick your nuts up in your throat!
+kid            5	1	1	0	2	1	0	She said that in front of our kid.
+kidding        3	0	1	0	1	0	1	Ease up? You're kidding me, right?
+kids           2	0	0	0	0	0	2	There's a rec room down the hall that you kids might enjoy.
+kill           10	3	1	0	3	1	2	Or I will kill you.
+killed         4	1	1	2	0	0	0	Fever would have killed you by now.
+killing        6	0	0	0	0	6	0	God, this ride is killing me.
+kills          1	0	1	0	0	0	0	It'll be the fall that kills us.
+kilter         1	0	0	0	0	1	0	I'm just feeling very off-kilter these days.
+kind           12	3	4	1	3	1	0	You share your feelings and that kind of stuff?
+kinder         1	0	0	0	0	0	1	Wouldn't it be kinder,
+kinds          1	0	0	0	0	1	0	- Exposing them to all kinds of risks?　- As opposed to what?
+king           1	0	0	0	1	0	0	He is not judge and jury. Who voted you king boss, huh?
+kiss           1	0	0	1	0	0	0	or you can kiss my lily-white ass.
+kittens        2	0	2	0	0	0	0	puppies and kittens.
+knew           10	2	1	3	3	0	1	I never met a woman who knew how to turn off a light.
+knife          1	0	0	1	0	0	0	Watch the knife!
+knock          2	0	1	1	0	0	0	Why don't you knock that crap off?
+knot           2	0	0	0	2	0	0	Why would he do that? He only ever used a fisherman's knot.
+knots          4	0	0	0	4	0	0	Didn't dad teach you to tie nail knots?
+know           106	20	10	18	13	24	21	You know what I wanna say.
+knowing        1	0	0	0	0	1	0	not knowing if it's day or night.
+known          2	0	0	0	0	1	1	I've known this man a long time.
+knows          3	0	1	1	1	0	0	Okay, everybody knows their jobs.
+korean         1	0	0	0	1	0	0	- I'm Korean. - Whatever.
+lab            1	0	0	0	1	0	0	Get to the lab. Go.
+labor          1	0	0	1	0	0	0	I'm beginning to question the division of labor here.
+labs           1	0	0	0	0	0	1	they stayed in the labs till the end.
+lad            1	0	0	0	0	0	1	There you are, young lad.
+ladies         1	0	0	0	1	0	0	Ladies...
+lady           3	0	0	2	1	0	0	You're gonna be loving those frog legs, lady.
+language       1	0	0	1	0	0	0	- You don't speak my language. - That's four.
+last           17	2	1	4	4	2	4	Last thing she said this morning?
+late           2	0	1	0	0	0	1	It's late. They should've been back by now.
+lately         1	1	0	0	0	0	0	lately whenever I try...
+later          3	0	1	2	0	0	0	- I am so gonna hurl. - Later.
+laughing       1	0	0	0	0	1	0	that's god laughing while you make plans.
+launcher       1	0	0	0	0	0	1	Those doors are designed to withstand a rocket launcher.
+laundry        1	0	0	1	0	0	0	You don't like how your laundry is done,
+lay            1	1	0	0	0	0	0	No, not with our herds, so we had to find a place to lay low.
+learn          4	3	0	0	1	0	0	"and you are still too damn stupid to learn how to turn off a switch?
+least          13	4	0	3	4	0	2	The least you could do is speak.
+leave          33	2	18	2	2	7	2	They're struck blind the second they leave a room.
+leaving        5	0	1	1	0	3	0	- They're leaving us. - What? What?
+led            1	0	0	0	0	1	0	You led us into a graveyard!
+left           30	3	0	8	6	4	9	turn off every single light this chick left on.
+legend         1	0	0	1	0	0	0	Heroes, son, spoken of in song and legend.
+legs           3	0	0	3	0	0	0	- You ever eat frog legs? - Eww!
+lending        1	0	0	1	0	0	0	I never like lending tools.
+leon           3	3	0	0	0	0	0	What I think, Leon, is that you need to stay focused.
+less           2	0	1	0	1	0	0	Okay, the street on the other side of the tank is less crowded.
+let            68	6	9	13	8	17	15	I mean every woman, I ever let have a key, I swear to God.
+letting        1	0	0	0	0	0	1	I've already broken every rule in the book letting you in here.
+level          1	0	0	0	1	0	0	but only if we keep a level head.
+liar           2	0	1	0	1	0	0	- You liar! - I'm sorry. Man, I'm sorry.
+license        1	0	1	0	0	0	0	Georgia license.
+lie            5	0	1	1	2	0	1	You lie! You did it on purpose!
+life           10	1	0	2	2	0	5	you've been hearing this your entire　life
+lifeless       1	0	0	0	0	0	1	Dark, lifeless, dead.
+lifeline       1	0	0	0	0	1	0	If we're looking for a lifeline,
+light          7	6	0	0	0	0	1	I never met a woman who knew how to turn off a light.
+lighting       1	0	0	0	0	0	1	- Emergency lighting on. - What the hell is this?
+lightly        1	0	0	1	0	0	0	And it is an art, my friend. It is not to be taken lightly.
+lights         7	2	0	0	0	0	5	"telling me to turn off the damn lights."
+like           71	16	12	11	12	6	14	It's like I... come home, house all lit up,
+lily           1	0	0	1	0	0	0	or you can kiss my lily-white ass.
+limits         1	0	0	1	0	0	0	From now on, my family is off-limits to you.
+linclon        1	1	0	0	0	0	0	and we'll patch in Linclon County Sheriff radio.
+lincoln        2	2	0	0	0	0	0	in progress Lincoln county units request local assistance.
+linda          1	1	0	0	0	0	0	Linda and Diane from dispatch, they picked these out.
+line           4	0	0	0	2	2	0	Hey, Dale. When's the last time you oiled those line reels?
+lines          1	0	0	0	0	1	0	The military were on the front lines of this thing.
+list           1	0	0	0	0	1	0	I guess I'll just add it to the list of habits that I'm breaking
+listen         13	1	2	1	1	3	5	Well,listen...
+listened       1	0	0	0	0	0	1	And I listened for a heartbeat and I did not hear one.
+listening      4	0	1	1	0	2	0	Have you been listening? You're running out of time.
+lit            1	1	0	0	0	0	0	It's like I... come home, house all lit up,
+little         34	5	3	11	9	1	5	Little girl?
+live           1	0	0	0	0	1	0	Man, I'm not sure I could live with that.
+lives          2	0	0	1	0	1	0	He's not worth one of your lives, even with guns thrown in.
+living         2	0	0	0	0	2	0	We don't kill the living.
+loaded         2	0	0	0	2	0	0	Or you come back locked and loaded,
+loading        1	1	0	0	0	0	0	Out on the loading dock, hauling trucks.
+loathing       1	1	0	0	0	0	0	This look and loathing you would not believe.
+lobe           1	0	0	0	0	0	1	The frontal lobe, the neocortex,
+local          1	1	0	0	0	0	0	in progress Lincoln county units request local assistance.
+lock           1	0	0	0	0	0	1	Did you just lock us in?
+locked         5	0	0	0	2	0	3	Or you come back locked and loaded,
+log            1	0	0	1	0	0	0	Hey, Ed, you want to rethink that log?
+long           15	1	2	2	4	3	3	But we'll be fine long as we stay quiet.
+longer         1	0	0	1	0	0	0	Baby, the more you fidget, the longer it takes.
+longest        1	0	0	0	0	0	1	The longest we heard of was eight hours.
+look           42	11	4	9	6	8	4	This look and loathing you would not believe.
+looked         2	0	0	0	0	2	0	If you'd have looked after your own--
+looking        4	0	1	0	1	2	0	is a man looking for his wife and son.
+looks          1	0	0	1	0	0	0	Yeah, looks don't deceive. I barely got them out,
+loose          2	0	1	1	0	0	0	If I get loose, you'd better pray--
+looting        1	0	1	0	0	0	0	Would it be considered looting?
+lord           1	1	0	0	0	0	0	Oh, my Lord.
+lori           17	7	0	5	1	2	2	So how's it with Lori, man?
+lose           1	0	1	0	0	0	0	Anybody that gets in the way of that is gonna lose.
+losing         1	1	0	0	0	0	0	And he's not losing his mother too, ok?
+loss           4	0	0	0	1	1	2	Any man can pass out from blood loss,
+losses         2	0	0	0	0	2	0	I'm thinking maybe our losses wouldn't have been so bad.
+lost           7	0	0	2	1	2	2	I thought we had lost you folks for sure.
+lot            13	4	0	2	1	3	3	- But you know about the dead people, right? - Yeah, I saw a lot of that.
+love           12	1	1	2	0	3	5	They wanted me to bring them down, they send their love and they just...
+loved          2	0	0	0	0	0	2	before everybody you loved was dead.
+loves          1	0	1	0	0	0	0	She loves mermaids.
+loving         1	0	0	1	0	0	0	You're gonna be loving those frog legs, lady.
+low            2	1	0	1	0	0	0	No, not with our herds, so we had to find a place to lay low.
+lucid          1	0	0	0	0	1	0	And he's lucid?
+luck           3	0	2	0	0	1	0	Any luck?
+lucky          2	0	0	1	0	1	0	let's just hope four is your lucky number, okay?
+lures          2	0	0	0	2	0	0	Did dad teach you mostly dry lures?
+luxury         1	1	0	0	0	0	0	Yeah, that, uh... That's a luxury we can't afford.
+lying          4	0	0	0	0	0	4	There were plenty left lying around. I familiarized myself.
+machines       1	0	0	0	0	0	1	He was hooked up to machines and I did not know what to do.
+made           5	0	0	1	1	2	1	It's because of them that I made it back to you at all.
+madre          1	0	1	0	0	0	0	Madre de dios!
+main           3	0	0	0	0	0	3	Vi, seal the main entrance.
+major          2	0	1	0	0	0	1	You'd be having a major freak-out.
+make           29	3	10	3	4	3	6	Make sure you got a round in the chamber and your safety off.
+makes          6	1	1	1	0	2	1	everything I say makes her impatient,like she didn't want to hear it after all.
+making         1	0	0	0	1	0	0	Fine, I'm making it up.
+male           1	1	0	0	0	0	0	Suspects are two male Caucasians.
+mama           3	0	0	2	1	0	0	wishing for one of your mama's haircuts.
+man            103	16	28	15	17	18	9	Still man, that... that earns me this.
+manage         2	0	0	2	0	0	0	Do you think we can manage that?
+mangroves      1	0	0	0	0	1	0	Watch the mangroves.
+manhole        1	0	1	0	0	0	0	You see any manhole covers?
+maniac         1	0	1	0	0	0	0	- What is that maniac doing? - Come on, let's go.
+manly          1	0	0	1	0	0	0	with some manly dignity and
+manpower       1	0	0	0	0	1	0	instead you went off. You took half our manpower with you.
+many           4	0	1	1	0	0	2	Whoever did it was thinking not many geeks would get through.
+map            3	0	0	0	0	3	0	You can see it on a map.
+mark           1	0	0	0	0	0	1	That started as we approached the half-hour mark.
+marking        1	0	0	0	1	0	0	I've been marking days on the calendar just to make sure.
+marriage       3	0	0	0	1	2	0	That is their marriage. That is not his.
+mass           1	0	0	0	1	0	0	like a village priest saying mass.
+massacre       1	0	0	0	0	0	1	It was a massacre. There were walkers everywhere.
+match          2	0	0	2	0	0	0	date back to the '70s, don't match any other bandwidth--
+matter         11	0	0	3	3	0	5	It's my only word on the matter.
+mattered       1	0	0	0	0	0	1	I wouldn't have mattered to anybody.
+matters        3	0	0	1	0	0	2	It doesn't matter what Shane says. It matters what I say.
+mausoleum      1	0	0	0	1	0	0	"I give you the mausoleum
+may            13	2	1	0	4	4	2	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+maybe          33	6	5	6	8	5	3	"maybe you, and every other pair of boobs on this planet
+maytag         2	0	0	2	0	0	0	ain't half as good as my old Maytag back home.
+mcdaniel       1	0	0	1	0	0	0	women wound up doing all the Hattie Mcdaniel work?
+meager         1	0	0	1	0	0	0	Words can be meager things.
+mean           22	4	2	3	3	4	6	I mean every woman, I ever let have a key, I swear to God.
+means          3	0	2	1	0	0	0	Now that means I'm the boss, right?
+meant          4	1	1	1	0	1	0	Not what I meant.
+meat           2	0	2	0	0	0	0	Only dark meat and white meat.
+medevac        1	0	0	1	0	0	0	they were gonna medevac you and the other patients to Atlanta,
+medicated      1	0	0	0	0	0	1	Is he nuts, medicated, what?
+medicine       3	0	0	0	3	0	0	He needs his medicine.
+meet           3	0	1	1	1	0	0	facing the street-- meet us there and be ready.
+memo           1	0	0	1	0	0	0	The world ended. Didn't you get the memo?
+memories       1	0	0	0	0	0	1	experiences, memories.
+men            7	2	0	2	3	0	0	What's the difference between men and women?
+meningitis     1	0	0	0	0	0	1	It invades the brain like meningitis.
+mention        1	0	0	0	0	1	0	Did I ever mention
+mentioned      1	0	0	0	1	0	0	I thought I mentioned that.
+merciful       1	0	0	1	0	0	0	No no, merciful christ!
+merle          32	0	6	18	8	0	0	Now Merle, just relax, okay?
+mermaids       2	0	2	0	0	0	0	But mermaids, they rule.
+messages       1	0	0	0	0	0	1	that carry all the messages.
+met            6	2	0	1	3	0	0	I never met a woman who knew how to turn off a light.
+metal          2	0	0	2	0	0	0	so I handcuffed him on a roof, hooked him to a piece of metal.
+microbial      1	0	0	0	0	0	1	It could be microbial, viral, parasitic, fungal.
+might          10	0	1	2	2	2	3	somebody might do the same for me.
+mighty         1	0	0	1	0	0	0	There was some mighty bold talk about catching frogs.
+miguel         3	0	0	0	3	0	0	- Guns? - The bag Miguel saw in the street.
+miguelito      1	0	0	0	1	0	0	He wants Miguelito's feet?
+mijo           2	0	0	1	1	0	0	Mijo, leave your sister alone.
+miles          8	1	1	2	0	4	0	18, 2 miles west of Interstate 85
+military       3	1	0	0	0	1	1	Military protection food, shelter... They told people to go there.
+millisecond    1	0	0	0	0	0	1	A millisecond. No pain.
+mind           5	1	2	2	0	0	0	The same chick, mind ya.
+mindless       1	0	0	0	0	0	1	Just a shell driven by mindless instinct.
+minds          2	0	0	0	0	2	0	their minds without bringing my marriage into it.
+mine           10	1	1	1	6	1	0	I'll turn mine on, a few minutes every day at dawn.
+minute         9	0	1	2	1	1	4	- Come back, man! - Wait a minute!
+minutes        9	3	0	0	0	1	5	Roger that. We're 5 minutes out on the route 18 intersection.
+miracle        1	0	0	0	0	0	1	It's a miracle, isn't it?
+misinterpreting1	0	0	0	0	1	0	you're misinterpreting me.
+misread        1	0	0	0	1	0	0	Unless I've misread the signs,
+miss           7	1	0	5	1	0	0	Be hard to miss.
+missed         2	0	1	0	0	1	0	And I'm drawing the geeks away how? I-- I missed that part.
+missing        4	1	1	0	2	0	0	A lot of it's gone missing.
+missy          1	0	0	1	0	0	0	Ain't my job, missy.
+mistake        2	0	0	0	0	2	0	I still think it's a mistake not burning these bodies.
+mistaken       1	0	0	0	1	0	0	- That bag of guns. - You're mistaken.
+mistakes       2	0	0	1	1	0	0	But the mistakes--
+mister         2	2	0	0	0	0	0	Hey, mister! What's that bandage for?
+misunderstood  1	0	0	0	0	1	0	you misunderstood.
+mix            2	0	1	0	0	1	0	It's just that your kind and my kind ain't meant to mix.
+mom            18	2	2	4	4	1	5	Mom?
+moment         8	2	1	0	2	0	3	Take a moment, eh? Look how sharp it is.
+momentarily    1	0	0	0	1	0	0	Bunch of old farts who are gonna die off momentarily anyhow?
+mommy          1	0	0	1	0	0	0	- Mama! Mommy! - Rick!
+monster        1	0	0	0	0	1	0	Jim's not a monster, Dale, or some rabid dog.
+month          3	1	0	0	0	1	1	Gas and light have been down for maybe a month.
+months         1	0	0	1	0	0	0	16 months in the stockade--
+morales        5	0	4	0	1	0	0	Morales, let's go!
+more           38	6	5	7	10	5	5	There's more of them out there than usual.
+morgan         3	0	0	0	0	3	0	Morgan
+morning        12	3	0	5	0	1	3	Last thing she said this morning?
+most           7	1	0	1	2	1	2	You think I was the most closed mouth
+mostly         1	0	0	0	1	0	0	Did dad teach you mostly dry lures?
+mother         3	3	0	0	0	0	0	And he's with his mother?
+motherfucker   1	0	1	0	0	0	0	- Motherfucker! - Hey, come on, Merle. That's enough.
+motherless     1	0	0	1	0	0	0	motherless poxy bastard!
+mountain       1	0	0	1	0	0	0	They never come this far up the mountain.
+mourn          1	0	0	0	0	1	0	We need time to mourn and we need to bury our dead.
+mouth          2	2	0	0	0	0	0	You think I was the most closed mouth
+mouthed        1	0	0	1	0	0	0	to some uppity smart-mouthed bitch.
+move           11	1	1	0	2	3	4	Plan to move on?
+moved          3	0	0	0	0	3	0	- Let's go. Move. - The camera-- it moved.
+moves          1	0	1	0	0	0	0	Nice moves there, Clint Eastwood.
+moving         7	0	0	1	0	4	2	They're moving out of the cities.
+much           13	4	3	1	4	0	1	maybe we wouldn't have so much global warming."
+muncher        1	0	1	0	0	0	0	Rod Muncher. I figured as much.
+muscle         1	0	0	0	1	0	0	It's a good thing too. We need the muscle.
+mushroom       1	0	1	0	0	0	0	- Where you been? - Amy the mushroom queen--
+must           7	2	1	0	1	1	2	But I guess if this is the first you're hearing, I know how it must sound...
+mutual         1	0	1	0	0	0	0	parley, as long as there's some kind of mutual gain involved.
+myself         6	0	1	0	4	0	1	Look, until now I always came here by myself--
+nah            3	1	0	1	0	0	1	Nah, it's... It's a phase.
+nail           3	0	0	0	2	0	1	Didn't dad teach you to tie nail knots?
+nails          2	0	0	0	2	0	0	Feed him a hammer, he'd crap out nails.
+naive          1	0	1	0	0	0	0	Call it foolish, naive hope
+name           5	1	1	0	2	0	1	William. He said his name today...
+named          1	0	0	0	1	0	0	Fella named Glenn.
+narrow         1	0	0	1	0	0	0	Staircase is narrow.
+naryking       5	1	1	1	1	1	0	翻譯 NaryKing
+nastiest       1	0	0	0	1	0	0	They're the evilest, nastiest man-eating bitches you ever saw.
+nasty          2	0	0	0	0	0	2	That tastes nasty.
+nav            1	0	0	1	0	0	0	I miss my Benz, my sat nav.
+nearly         1	0	0	0	1	0	0	- Not nearly half.　- For what?
+necessary      1	0	0	1	0	0	0	Your husband did what was necessary.
+neck           2	0	1	0	0	0	1	Back at the tank, why'd you stick your neck out for me?
+necrotic       1	0	0	0	0	1	0	Those are necrotic,
+need           49	5	5	12	7	17	3	What I think, Leon, is that you need to stay focused.
+needed         5	0	0	1	2	1	1	No apology needed.
+needing        1	0	0	0	1	0	0	Probably just came across some folks needing help, that's all.
+needs          7	0	0	1	4	2	0	I don't think she needs to go anywhere with you, Ed.
+neither        4	1	0	0	1	1	1	Neither do I.
+neocortex      1	0	0	0	0	0	1	The frontal lobe, the neocortex,
+net            2	0	0	2	0	0	0	Get 'em! Get that net in there and get 'em!
+never          26	4	2	7	0	7	6	I never met a woman who knew how to turn off a light.
+new            5	1	1	2	0	0	1	We'll get you a new vest.
+news           2	0	2	0	0	0	0	You're surrounded by walkers. That's the bad news.
+next           4	0	2	2	0	0	0	Next time though, take the safety off.
+nice           3	0	1	0	1	1	0	Nice moves there, Clint Eastwood.
+nigger         2	0	2	0	0	0	0	It's the day I take orders from a nigger.
+niggers        1	0	1	0	0	0	0	There are no niggers anymore.
+night          10	1	0	1	3	3	2	We didn't have a great night.
+nobody         13	1	0	2	5	4	1	Nobody goes anywhere alone, you know that.
+noise          2	1	1	0	0	0	0	That noise... Will it bring more of them?
+noncom         1	0	0	1	0	0	0	You pussy-ass noncom bitch.
+none           4	0	0	2	0	1	1	And I say it's none of your business. Come on now.
+nonessential   1	0	0	0	0	0	1	The system is dropping all the nonessential uses of power.
+northwest      1	0	0	0	0	1	0	We're camped a few miles northwest,
+nose           1	0	1	0	0	0	0	Got some on your nose there.
+not            148	19	23	34	28	24	20	This look and loathing you would not believe.
+note           1	0	0	0	0	1	0	I'm leaving a note and map behind for you
+nothin         2	1	0	1	0	0	0	Nothin' I can do about it here... That fever, man...
+nothing        25	5	2	4	6	2	6	It's nothing.
+now            76	10	11	15	11	18	11	Alright, Reverend Shane's preaching to you now, boy.
+nowhere        3	0	0	0	2	1	0	They came out of nowhere. There were dozens of'em.
+nuclear        1	0	0	0	0	0	1	and duration than any other known explosive except nuclear.
+number         1	0	0	1	0	0	0	let's just hope four is your lucky number, okay?
+nurse          3	2	0	0	1	0	0	Nurse, help.
+nuts           3	0	0	0	2	0	1	I'm gonna kick your nuts up in your throat!
+occasion       1	0	1	0	0	0	0	You may have occasion to use it.
+occur          1	0	0	0	0	0	1	facility-wide decontamination will occur.
+odds           3	0	0	1	1	1	0	What are the odds, huh?
+off            53	10	10	9	13	4	7	I never met a woman who knew how to turn off a light.
+offense        1	0	1	0	0	0	0	No offense.
+offer          1	0	0	1	0	0	0	It's a one-time offer, bud-- not to be repeated.
+office         1	0	1	0	0	0	0	I worked in the city zoning office.
+officer        8	4	2	1	1	0	0	One Lincoln county officer is wounded.
+officers       1	1	0	0	0	0	0	Be advised, they have fired on police officers.
+often          2	0	1	0	0	1	0	Big structures often had drainage tunnels
+oiled          1	0	0	0	1	0	0	Hey, Dale. When's the last time you oiled those line reels?
+okay           101	7	8	26	16	30	14	Okay. Shh, shh, stay with me, you hear me?
+old            12	2	1	4	4	1	0	I'm old enough.
+olympic        1	0	1	0	0	0	0	If bad ideas were an Olympic event,
+once           4	1	0	1	0	0	2	Happened once before.
+one            68	17	8	15	10	8	10	They're born thinking the switch only goes one way.
+ones           4	0	0	0	2	0	2	These people, the old ones--
+only           20	1	7	3	7	1	1	They're born thinking the switch only goes one way.
+onto           3	0	1	0	1	1	0	Right. Listen to him. He's onto something.
+open           10	0	1	0	0	2	7	- Let's go! - Open the door!
+operational    1	0	0	0	0	1	0	Now listen to me. If that place is operational,
+opposed        1	0	0	0	0	1	0	- Exposing them to all kinds of risks?　- As opposed to what?
+opposite       1	0	0	0	0	1	0	- Fort Benning. - That's 100 miles in the opposite direction.
+opted          1	0	0	0	0	0	1	They... opted out.
+option         2	0	1	0	0	1	0	Forget the bag, okay? It's not an option.
+options        1	0	0	0	1	0	0	I see two options.
+orders         2	0	2	0	0	0	0	Now I'm gonna take orders from you?
+organ          1	0	1	0	0	0	0	he was an organ donor.
+organic        1	0	0	0	0	0	1	Somewhere in all that organic wiring,
+organisms      1	0	0	0	0	0	1	H.I.T.s are deployed to prevent any organisms from getting out.
+organs         1	0	0	0	0	0	1	then the major organs.
+other          16	3	4	3	0	2	4	"maybe you, and every other pair of boobs on this planet
+others         12	1	3	1	3	2	2	There are others.
+otherwise      1	0	1	0	0	0	0	It won't shoot otherwise.
+ought          4	1	2	1	0	0	0	we ought to put signs up on 85
+our            41	2	3	7	5	15	9	She said that in front of our kid.
+ourselves      2	0	2	0	0	0	0	We're gonna have ourselves a little powwow, huh?
+out            140	15	28	17	31	13	36	just figured out that the light switch see, goes both ways,"
+outrun         1	1	0	0	0	0	0	Steady. It's just a few. Nothing we can't outrun.
+outside        6	2	3	0	1	0	0	We're just outside the city.
+oven           1	0	1	0	0	0	0	They've got biscuits waiting at the oven for us.
+over           23	3	6	6	4	3	1	The sound draws them,now they're all over the street.
+overrun        4	0	1	1	0	1	1	Somebody did-- I guess when the city got overrun.
+overstated     1	0	0	0	0	1	0	The tragedy of their loss cannot be overstated.
+owe            2	0	0	1	1	0	0	I owe a debt to a man I met and his little boy.
+own            7	1	1	1	0	4	0	Station got its own propane system.
+oxygen         1	0	0	0	0	0	1	The vacuum-pressure effect ignites the oxygen
+oye            1	0	0	0	1	0	0	Oye.
+packed         1	1	0	0	0	0	0	They packed some clothes.Not a lot.
+packing        2	1	0	0	0	0	1	Here I am, packing survival gear, she's grabbing photo albums....
+padlock        2	0	0	2	0	0	0	not that chain, not that padlock.
+pain           3	0	0	0	1	0	2	Where's the compensation for their pain and suffering?
+pair           1	1	0	0	0	0	0	"maybe you, and every other pair of boobs on this planet
+paltry         1	0	0	1	0	0	0	Paltry things.
+panic          1	1	0	0	0	0	0	The panic...
+paper          2	0	0	0	2	0	0	Wrapping paper, color tissue, anything?
+papi           1	0	0	1	0	0	0	- Papi! - Daddy! - Hey.
+paraphrasing   1	0	0	0	1	0	0	William Faulkner. Maybe my bad paraphrasing.
+parasitic      1	0	0	0	0	0	1	It could be microbial, viral, parasitic, fungal.
+parents        1	0	0	0	1	0	0	The vatos trickle in to check on their parents, their grandparents.
+parley         1	0	1	0	0	0	0	parley, as long as there's some kind of mutual gain involved.
+part           8	0	2	1	1	1	3	These streets ain't safe in this part of town from what I hear.
+parties        1	0	0	0	0	1	0	Or too busy for kid's parties.
+pass           4	0	1	0	3	0	0	We get them all the time. It'll pass real quick.
+passed         1	0	0	0	0	1	0	Since she passed,
+passing        1	0	0	0	1	0	0	Just wandering out in the streets, maybe passing out?
+past           2	0	1	0	0	1	0	You'll never make it past the walkers.
+patch          1	1	0	0	0	0	0	and we'll patch in Linclon County Sheriff radio.
+path           1	0	0	0	0	0	1	You chose the hard path.
+patient        2	0	0	0	0	0	2	In the case of this patient,
+patients       1	0	0	1	0	0	0	they were gonna medevac you and the other patients to Atlanta,
+pay            1	0	0	0	0	1	0	I came to pay my respects.
+pee            1	0	0	0	1	0	0	- Where are you going? - I have to pee.
+peletier       1	0	0	0	1	0	0	like Ed Peletier, aren't you?
+people         40	5	2	3	12	13	5	- But you know about the dead people, right? - Yeah, I saw a lot of that.
+perfect        1	0	0	1	0	0	0	And the hose on that van is just about a perfect match--
+perimeter      1	0	0	0	1	0	0	We watch the perimeter night and day and we wait.
+person         8	2	1	0	1	0	4	Hello, hello, is the person who calls still on the air?
+personal       1	0	1	0	0	0	0	Come on now. It wasn't personal.
+personnel      2	0	0	0	0	2	0	All personnel must clear the room.
+phase          1	1	0	0	0	0	0	Nah, it's... It's a phase.
+phone          1	0	0	0	0	1	0	But I never made it past that phone call.
+photo          3	3	0	0	0	0	0	My photo albums, family pictures, all gone.
+photos         2	1	0	1	0	0	0	You see the framed photos on the walls?
+pick           2	0	0	2	0	0	0	- I dropped it.　- You couldn't pick it up?
+pickaxe        1	0	0	0	0	1	0	I say we put a pickaxe in his head
+picked         3	1	0	1	1	0	0	Linda and Diane from dispatch, they picked these out.
+picture        2	0	2	0	0	0	0	Get the picture now?
+pictures       1	1	0	0	0	0	0	My photo albums, family pictures, all gone.
+piece          1	0	0	1	0	0	0	so I handcuffed him on a roof, hooked him to a piece of metal.
+pig            2	0	2	0	0	0	0	Yeah, you hear me, you pig?!
+piggy          1	0	0	1	0	0	0	I would rather eat miss piggy.
+pillow         1	1	0	0	0	0	0	Cry into the pillow.
+pilot          1	1	0	0	0	0	0	Pilot's still on.
+pinpoint       1	0	0	1	0	0	0	Hard to pinpoint the source.
+pipe           1	0	1	0	0	0	0	There's no refugee center. That's a pipe dream.
+piss           1	0	0	0	1	0	0	Wouldn't piss on them if their heads were on fire.
+pissed         3	2	0	0	1	0	0	pissed at me all the time, and I don't know why.
+pissing        1	1	0	0	0	0	0	Well pissing me all you want won't gonna change anything.
+pitch          1	0	0	1	0	0	0	you are welcome to pitch in and do it yourself. Here.
+pitched        1	1	0	0	0	0	0	Everybody pitched in on these. They uh...
+pizzas         1	0	0	0	1	0	0	Delivered pizzas. Why?
+place          16	6	3	0	1	3	3	This place... It's Fred and Cindy Drake's.
+places         3	0	0	0	1	0	2	I got you in both places to cover me.
+plan           5	1	0	2	0	2	0	Plan to move on?
+planet         1	1	0	0	0	0	0	"maybe you, and every other pair of boobs on this planet
+plans          1	0	0	0	0	1	0	that's god laughing while you make plans.
+play           2	0	0	1	0	1	0	Your brother does not work and play well with others.
+playback       3	0	0	0	0	0	3	Give me playback of TS-19.
+please         32	6	2	7	4	7	6	Highway 18, 85 Interstate, please advise.
+plenty         1	0	0	0	0	0	1	There were plenty left lying around. I familiarized myself.
+plug           1	0	0	0	0	0	1	Just don't plug in the video games, okay?
+plunderers     1	0	0	0	1	0	0	The worst kind-- plunderers,
+plural         2	0	0	2	0	0	0	- I've caught a frog before. - I said frogs-- plural.
+plus           2	1	1	0	0	0	0	Plus they got that disease place.
+pocket         2	0	1	0	0	0	1	He had $28 in his pocket when he died...
+point          8	0	1	2	2	0	3	I can see you make a habit of missing the point.
+poison         1	0	1	0	0	0	0	How do we tell if they're poison?
+poisonous      1	0	0	0	0	1	0	Corrosive element is deemed poisonous if inhaled.
+police         4	3	0	0	1	0	0	Be advised, they have fired on police officers.
+policeman      1	1	0	0	0	0	0	I'm a policeman.
+polite         4	2	2	0	0	0	0	Anyway, uh... Polite version...
+pond           1	0	0	1	0	0	0	You take this stupid hat and go back to "On Golden Pond"?
+pop            4	0	0	3	0	0	1	Pop the hood, please. Pop the damn hood,
+popping        1	0	1	0	0	0	0	Every geek for miles around heard you popping off rounds.
+pops           1	1	0	0	0	0	0	And that's when the exorcist voice pops out.
+por            1	0	0	0	1	0	0	Abuela, por favor. Take me to him.
+positive       1	0	1	0	0	0	0	and I'll be all "Sammy sunshine" positive for you.
+positivity     1	0	1	0	0	0	0	Try some positivity for a change. Damn.
+possible       1	0	0	0	0	0	1	computers running to the last possible second.
+pour           1	0	0	0	1	0	0	Pour some on my head?
+pow            2	0	0	2	0	0	0	Pow! Pow! Just like that.
+powdered       1	0	0	0	0	0	1	Eggs. Powdered, but-- but I do 'em good.
+power          12	1	0	1	0	1	9	"Always,always yelling about the power bill,"
+powered        2	0	0	1	0	0	1	two high-powered rifles, over a dozen handguns.
+powering       1	0	0	0	0	0	1	Powering down main screen and workstations.
+powwow         1	0	1	0	0	0	0	We're gonna have ourselves a little powwow, huh?
+poxy           1	0	0	1	0	0	0	motherless poxy bastard!
+practice       1	1	0	0	0	0	0	Goes faster than you think. Especially at target practice.
+pray           1	0	1	0	0	0	0	If I get loose, you'd better pray--
+prayers        1	0	0	0	0	0	1	Baby, go say your prayers. I'm gonna browse a bit.
+preaching      1	1	0	0	0	0	0	Alright, Reverend Shane's preaching to you now, boy.
+pressure       1	0	0	0	0	0	1	The vacuum-pressure effect ignites the oxygen
+pretty         7	1	2	0	2	2	0	It was pretty rank.
+prevent        1	0	0	0	0	0	1	H.I.T.s are deployed to prevent any organisms from getting out.
+price          1	0	0	0	0	0	1	That's the price of admission.
+prick          1	0	0	1	0	0	0	Just to see that prick
+pricks         1	0	0	0	1	0	0	handcuffed and left to rot by you sorry pricks.
+priest         1	0	0	0	1	0	0	like a village priest saying mass.
+prioritized    1	0	0	0	0	0	1	Energy use is being prioritized.
+priority       1	0	0	0	0	0	1	Air isn't a priority? And lights?
+privilege      1	0	0	1	0	0	0	You lost that privilege.
+probably       3	2	0	0	1	0	0	You probably could tell, hmm?
+problem        10	0	1	5	1	3	0	In and out, grab a few things-- no problem.
+proceed        1	1	0	0	0	0	0	Proceed with extreme caution.
+process        2	0	0	1	0	0	1	Hold on. Let me process this.
+prodding       1	0	0	1	0	0	0	You don't want to keep prodding the bull here, okay?
+produces       1	0	0	0	0	0	1	that produces a blast wave of significantly greater power
+progress       2	1	0	0	0	1	0	in progress Lincoln county units request local assistance.
+promise        4	0	0	0	1	2	1	To you and your mom, I promise you that.
+promised       1	0	0	0	0	1	0	It's not what they promised. The city is--
+propane        1	1	0	0	0	0	0	Station got its own propane system.
+properly       1	0	0	0	0	0	1	It seems to me we haven't thanked our host properly.
+proposal       1	1	0	0	0	0	0	More like a proposal.
+propose        1	1	0	0	0	0	0	And who the hell would you propose to send?
+protect        4	0	0	1	2	1	0	We need 'em here. We need 'em to protect camp.
+protected      1	0	0	0	0	0	1	We protected the public
+protection     2	1	0	0	0	1	0	Military protection food, shelter... They told people to go there.
+protein        1	0	0	0	0	0	1	Protein helps the hangover. -
+proud          1	0	0	0	0	0	1	I hope you'd be proud of that.
+provider       1	0	0	0	1	0	0	Felipe's a nurse-- a special care provider.
+public         1	0	0	0	0	0	1	We protected the public
+pull           7	1	3	1	1	0	1	You pull the trigger, you have to mean it.
+pulled         1	0	0	0	1	0	0	Just pulled'em right out of my hands.
+pulling        2	0	1	0	0	0	1	We survive this by pulling together,
+punched        1	0	0	1	0	0	0	When I punched out his front teeth.
+punished       1	0	0	1	0	0	0	I know I'm being punished.
+puppies        2	0	2	0	0	0	0	puppies and kittens.
+purpose        2	0	2	0	0	0	0	Son of a bitch! You did that on purpose!
+purse          1	0	0	1	0	0	0	You and that bag-- like the bottom of an old lady's purse.
+pursuit        1	1	0	0	0	0	0	All available units, high speed pursuit
+pussy          2	0	0	2	0	0	0	or take it up the chain if you're a pussy.
+put            16	6	0	2	1	6	1	- Gun, gun, gun. - Put it down!
+puto           2	0	0	0	2	0	0	You're the one who jumped me, puto,
+putting        3	1	0	1	0	1	0	I'm not putting you in danger, okay?
+python         1	0	0	1	0	0	0	Hey, Rick, got any rounds in the Python?
+qualifiers     1	0	0	0	0	1	0	Air qualifiers indicate corrosive fumes.
+quarry         3	0	0	1	0	2	0	- Have you seen Carl? - Shane took him down to the quarry.
+queen          1	0	1	0	0	0	0	- Where you been? - Amy the mushroom queen--
+question       4	0	0	1	2	0	1	I'm beginning to question the division of labor here.
+questions      2	0	0	0	0	1	1	- Any questions? - We're, uh...
+quick          2	0	2	0	0	0	0	If I run into something and have to get out quick,
+quiet          4	2	1	0	0	1	0	But we'll be fine long as we stay quiet.
+quieter        1	0	0	0	1	0	0	Your crossbow is quieter than his gun.
+quote          1	1	0	0	0	0	0	quote from the Guy Gospel and say "Um, darling?"
+rabid          1	0	0	0	0	1	0	Jim's not a monster, Dale, or some rabid dog.
+race           1	0	0	1	0	0	0	I don't mean to bring race into this,
+rachel         1	0	1	0	0	0	0	"With love, from Rachel."
+radiator       1	0	0	1	0	0	0	The R.V.'s radiator hose is shot.
+radio          1	1	0	0	0	0	0	and we'll patch in Linclon County Sheriff radio.
+rag            1	0	0	0	1	0	0	You got a do-rag or something?
+ragged         1	0	0	0	0	1	0	- Rick--　- We're at the ragged edge here.
+raise          2	1	1	0	0	0	0	Try to raise him again.
+ran            6	0	0	2	0	0	4	I was scared and I ran.
+random         1	1	0	0	0	0	0	Some random thief took those too, you think?
+rang           1	0	1	0	0	0	0	You just rang the dinner bell.
+range          1	0	0	1	0	0	0	Last time we were on the gun range,
+rank           1	1	0	0	0	0	0	It was pretty rank.
+rash           1	0	0	0	0	0	1	There was a rash of suicides.
+rather         3	0	1	1	0	0	1	- Gonna die anyway.　- I'd rather.
+rational       1	0	0	1	0	0	0	I don't see a rational discussion to be had from that, do you?
+read           2	1	1	0	0	0	0	Read your comic books a while.
+reads          3	3	0	0	0	0	0	Anybody reads, please respond.
+ready          8	0	4	2	1	1	0	Little red dot means it's ready to fire.
+real           5	2	1	0	1	0	1	They hope you come back real soon.
+really         12	1	2	3	0	2	4	Really good.
+reap           1	0	0	0	0	1	0	You reap what you sow.
+reason         3	0	0	1	2	0	0	She had every reason to believe that.
+rec            1	0	0	0	0	0	1	There's a rec room down the hall that you kids might enjoy.
+reception      1	0	1	0	0	0	0	Reception's bad on this end.
+reckless       1	0	0	1	0	0	0	I think that it's foolish and reckless.
+record         1	0	0	0	0	0	1	and volunteered to have us record the process.
+recording      1	0	0	0	0	0	1	We've hit the 30-minute window. I am recording.
+red            3	0	1	0	0	1	1	Little red dot means it's ready to fire.
+redneck        1	0	0	0	1	0	0	Not him. This redneck puto here.
+reels          1	0	0	0	1	0	0	Hey, Dale. When's the last time you oiled those line reels?
+reflective     1	0	0	0	0	1	0	Gonna have to start wearing reflective vests out here.
+refugee        4	1	3	0	0	0	0	- Why there? - Refugee settle.
+regret         2	0	0	1	0	0	1	Now you come on now or you gonna regret it later.
+regular        1	0	0	0	0	1	0	Can't seem to keep regular hours.
+related        1	0	0	0	1	0	0	Who's that dude to you anyway? You don't look related.
+relax          2	0	1	0	1	0	0	Now Merle, just relax, okay?
+relief         1	0	0	0	0	1	0	We need relief and we got a sick man who needs help.
+religion       1	0	0	0	1	0	0	But that'd be like changing his religion or something.
+remember       9	2	0	1	6	0	0	Can you remember?
+reminder       1	0	0	1	0	0	0	Just a reminder to boil before use.
+rent           1	0	1	0	0	0	0	or the rent or the Super Bowl.
+repay          1	0	0	0	0	1	0	You know I can never repay that debt, okay?
+repeat         4	0	4	0	0	0	0	- Repeat. Repeat. - Shane, is that you?
+repeated       1	0	0	1	0	0	0	It's a one-time offer, bud-- not to be repeated.
+replacement    1	0	1	0	0	0	0	Where the hell are we gonna find a replacement?
+report         1	0	0	0	0	1	0	There's no clinical progress to report.
+reports        1	0	0	0	0	0	1	We had reports of it happening in as little as three minutes.
+request        1	1	0	0	0	0	0	in progress Lincoln county units request local assistance.
+respect        1	1	0	0	0	0	0	We gotta do it carefully, teach you to respect the weapon.
+respects       1	0	0	0	0	1	0	I came to pay my respects.
+respond        5	5	0	0	0	0	0	Anybody reads, please respond.
+rest           10	0	3	1	4	0	2	- God. Give it a rest. - They're drawn by sound, right?
+restarts       1	0	0	0	0	0	1	- It restarts the brain?　- No, just the brain stem.
+resurrection   1	0	0	0	0	0	1	The resurrection times vary wildly.
+rethink        1	0	0	1	0	0	0	Hey, Ed, you want to rethink that log?
+return         1	0	0	1	0	0	0	- What do I get in return? - What do you want?
+reverend       2	2	0	0	0	0	0	Alright, Reverend Shane's preaching to you now, boy.
+rick           31	4	2	7	0	12	6	- Rick! - I'm alright!
+ride           1	0	0	0	0	1	0	God, this ride is killing me.
+riding         1	0	1	0	0	0	0	You the new sheriff come riding in to clean up the town?
+rifle          1	0	1	0	0	0	0	I guess you want me to get that rifle over there too
+rifles         1	0	0	1	0	0	0	two high-powered rifles, over a dozen handguns.
+rig            1	0	0	0	0	1	0	Can you jury-rig it?
+right          108	10	18	19	22	24	15	- Is that right? - Yeah, baby.
+ripped         2	1	0	1	0	0	0	Cause he would have ripped into you.
+ripples        1	0	0	0	0	0	1	All those ripples of light,
+risk           6	0	1	4	0	1	0	We do not risk the rest of the group.
+risks          2	0	1	0	0	1	0	I know, and she knew the risks, right?
+road           6	2	2	0	0	2	0	Sounds like they're chasing those idiots up and down every back road we got.
+robber         1	1	0	0	0	0	0	My boy say you're a... bank robber...
+rock           1	0	0	0	0	1	0	Up by a big abandoned rock quarry.
+rocket         1	0	0	0	0	0	1	Those doors are designed to withstand a rocket launcher.
+rocks          1	0	0	0	1	0	0	I, uh, built up the rocks all around.
+rod            1	0	1	0	0	0	0	Rod Muncher. I figured as much.
+roger          1	1	0	0	0	0	0	Roger that. We're 5 minutes out on the route 18 intersection.
+roll           2	0	2	0	0	0	0	Those roll-up doors at the front of the store--
+roof           6	0	1	5	0	0	0	Got no signal. Maybe the roof.
+room           7	3	0	0	0	1	3	They're struck blind the second they leave a room.
+roots          1	0	0	0	0	1	0	Their roots will gouge the whole boat.
+rot            4	0	3	0	1	0	0	You're gonna rot in hell!
+round          3	2	0	1	0	0	0	Make sure you got a round in the chamber and your safety off.
+rounds         6	0	2	4	0	0	0	- 15 rounds. - Make 'em count.
+route          1	1	0	0	0	0	0	Roger that. We're 5 minutes out on the route 18 intersection.
+row            2	0	0	0	0	2	0	Our people go in that row over there.
+rule           4	0	1	0	2	0	1	But mermaids, they rule.
+rules          4	0	1	1	0	2	0	I don't think those rules apply anymore. Do you?
+rumor          1	0	0	1	0	0	0	Rumor is you have bolt cutters.
+run            7	0	4	0	1	0	2	Yeah, I'd say make a run for it.
+running        6	0	2	1	0	1	2	And if you see anything, holler. I'll come running.
+runs           4	0	0	0	0	0	4	Vi, what happens when the power runs out?
+rusty          1	1	0	0	0	0	0	By the end, Dwayne will know how to shoot and I won't be so rusty.
+sad            1	0	0	1	0	0	0	Nobody's gonna be sad he didn't come back...
+safe           9	1	2	0	0	4	2	It's safe there.
+safer          1	1	0	0	0	0	0	Safer anyway. People...
+safest         1	1	0	0	0	0	0	Said to be safest.
+safety         3	1	1	0	0	1	0	Make sure you got a round in the chamber and your safety off.
+said           31	7	2	7	5	5	5	Last thing she said this morning?
+sake           2	2	0	0	0	0	0	Look, if you don't wanna do it for my sake or for your sake,
+sakes          1	0	0	0	0	1	0	No. For god's sakes, let her be.
+sale           1	0	0	0	1	0	0	I picked them up from Satan at a yard sale.
+same           12	4	1	1	3	1	2	The same chick, mind ya.
+sammy          1	0	1	0	0	0	0	and I'll be all "Sammy sunshine" positive for you.
+samples        3	0	0	0	0	3	0	The TS19 samples are gone.
+sane           1	0	0	0	0	0	1	- But that's insane! - no, it's completely sane.
+sat            1	0	0	1	0	0	0	I miss my Benz, my sat nav.
+satan          1	0	0	0	1	0	0	I picked them up from Satan at a yard sale.
+save           3	0	0	1	0	2	0	to save your brother's cracker ass?
+saved          2	0	0	0	0	1	1	Could have saved a lot of amps.
+saves          1	0	0	0	0	1	0	Saves me the embarrassment.
+saw            8	3	1	1	3	0	0	I saw you get tagged, man, it scared the hell out of me.
+say            42	13	4	6	5	9	5	quote from the Guy Gospel and say "Um, darling?"
+saying         7	1	0	3	1	0	2	And I've been saying for a week,
+says           7	1	0	1	2	2	1	That's what she always says: "Speak".
+scan           2	0	0	0	0	0	2	Vi, scan forward to the first event.
+scanners       1	0	0	1	0	0	0	not even the scanners in our cars.
+scanning       2	0	0	0	0	0	2	Scanning to first event.
+scare          1	0	0	1	0	0	0	All right, scare the rest of them off.
+scared         9	1	1	3	3	0	1	I saw you get tagged, man, it scared the hell out of me.
+scares         1	0	0	0	1	0	0	It scares the fish.
+scaring        2	0	0	0	2	0	0	You're scaring people.
+scatter        1	0	0	1	0	0	0	They're all gonna scatter. I'm gonna drive 'em your way.
+scavenge       2	0	1	0	1	0	0	Look, we came into the city to scavenge supplies.
+scavenging     1	0	1	0	0	0	0	You know what the key to scavenging is? Surviving!
+schedule       1	0	0	0	0	0	1	Right on schedule.
+school         1	1	0	0	0	0	0	Imagine going to school with that in your head.
+scope          1	1	0	0	0	0	0	Scope's accurate.
+scoped         1	0	1	0	0	0	0	I really scoped this place out the other times I was here.
+scratch        1	1	0	0	0	0	0	Chewed. Maybe scratch?
+scratched      2	0	0	1	0	1	0	- Nothing bit you? Nothing scratched you? - No, I'm okay.
+screaming      1	0	0	0	1	0	0	Screaming about trying
+screen         2	0	0	0	0	0	2	Vi, power down the main screen and the workstations.
+screw          3	0	2	0	1	0	0	- Not apart.　- Screw you, man.
+scrubbers      1	0	0	0	0	1	0	Item-- I finally got the scrubbers
+scrubbing      1	0	0	1	0	0	0	Scrubbing on a washboard
+sea            1	0	0	0	0	1	0	Not further out to sea.
+seal           1	0	0	0	0	0	1	Vi, seal the main entrance.
+sealed         1	0	0	0	0	0	1	The emergency exits are sealed.
+seated         1	0	0	0	1	0	0	But in my day it was all about getting the hook seated.
+second         10	1	0	3	1	0	5	They're struck blind the second they leave a room.
+seconds        1	0	0	0	0	0	1	Seven seconds.
+secrets        1	0	0	1	0	0	0	I'm willing to share my secrets.
+sector         1	0	0	0	0	1	0	in the east sector shut down to save power.
+see            46	4	12	8	11	5	6	You see, this is -- this is when Reverend Shane wants to
+seeing         1	1	0	0	0	0	0	Be seeing you, Dwayne.
+seem           2	1	0	0	0	1	0	They may not seem like much one at a time...
+seems          4	0	0	1	1	1	1	It seems to me what you really need most here
+seen           11	1	1	4	2	1	2	Seen it happen...
+selves         1	0	0	0	0	1	0	to hold onto anything of our old selves.
+send           2	2	0	0	0	0	0	They wanted me to bring them down, they send their love and they just...
+sense          4	0	2	0	0	1	1	Only common sense.
+serious        3	1	0	1	0	1	0	- Is this a joke? - No, serious.
+seriously      4	0	0	0	2	1	1	Seriously, how long you think they got?
+sermon         1	1	0	0	0	0	0	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+set            2	1	1	0	0	0	0	I'll just set this on your side table, ok?
+sets           1	0	0	0	0	0	1	It sets the air on fire.
+settle         1	1	0	0	0	0	0	- Why there? - Refugee settle.
+settled        1	0	0	0	0	0	1	The matter is settled.
+seven          1	0	0	0	0	0	1	Seven seconds.
+sewer          1	0	1	0	0	0	0	Yeah, we've got ourselves a sewer tunnel.
+sewers         2	0	2	0	0	0	0	What about under the streets? The sewers?
+shade          1	0	0	0	1	0	0	Why don't you go and get yourself in the shade?
+shame          1	0	0	1	0	0	0	That's a damn shame.
+shane          38	6	3	10	5	3	11	Alright, Reverend Shane's preaching to you now, boy.
+share          2	1	0	1	0	0	0	You share your feelings and that kind of stuff?
+sharp          1	1	0	0	0	0	0	Take a moment, eh? Look how sharp it is.
+shaving        1	0	0	1	0	0	0	wait till you start shaving.
+she            57	15	9	13	1	9	10	She'll bitch about global warming.
+shell          1	0	0	0	0	0	1	Just a shell driven by mindless instinct.
+shelter        3	2	0	0	0	1	0	Military protection food, shelter... They told people to go there.
+sheriff        3	2	1	0	0	0	0	and we'll patch in Linclon County Sheriff radio.
+shh            15	7	1	0	2	3	2	Shh, shh, shh, hey, you look at me, stay with me, you hear me?
+ship           1	0	0	0	0	1	0	I say swim toward the closest ship,
+shit           7	2	3	1	0	0	1	Look, man, that's just shit couples go through.
+shoot          7	2	3	0	2	0	0	Dad, can I learn to shoot?
+shooting       1	0	1	0	0	0	0	Not shooting up the streets like it's the O.K.Corral.
+short          3	0	0	2	0	0	1	Sometimes they fall short.
+shot           17	11	0	2	1	2	1	Son of a bitch shot me.
+shotguns       1	0	0	1	0	0	0	- Wait. What guns? - Six shotguns,
+should         14	3	3	4	1	1	2	I never should have fired that gun today.
+shouting       1	0	1	0	0	0	0	Stay within shouting distance.
+shove          1	0	0	0	1	0	0	And shove it up yours. Just so you know.
+shovel         2	0	0	0	2	0	0	Why don't you just go ahead and give me that shovel?
+show           11	1	1	3	2	3	1	Let's not be here when they show up.
+showed         1	0	0	0	1	0	0	He cut off some dude's hand, man. He showed it to me.
+shower         1	0	0	0	0	0	1	If you shower, go easy on the hot water.
+shows          2	2	0	0	0	0	0	Hey, we'll get them on one of those video shows, you know,
+shut           14	0	0	1	7	6	0	- Shane, shut up. Don't! - I don't think that--
+shutdown       1	0	0	0	0	0	1	the brian goes into shutdown,
+shutters       1	0	0	0	0	1	0	Then why are these shutters down?
+shutting       2	0	0	0	0	0	2	It's not up to me. Zone 5 is shutting itself down.
+sick           5	0	1	0	1	3	0	'cause I'm getting sick and tired of hearing mine.
+side           5	1	3	0	1	0	0	I'll just set this on your side table, ok?
+sides          1	0	0	0	1	0	0	Mistakes were made on both sides.
+sight          3	0	0	2	1	0	0	You are a welcome sight.
+sign           1	0	0	0	0	0	1	Please, man, just show me a sign. Anything.
+signal         3	0	2	0	0	1	0	Got no signal. Maybe the roof.
+significantly  1	0	0	0	0	0	1	that produces a blast wave of significantly greater power
+signs          2	1	0	0	1	0	0	we ought to put signs up on 85
+silly          1	0	0	1	0	0	0	Never you mind, silly christ boy.
+since          4	0	0	0	1	3	0	The people we've encountered since things fell apart,
+single         3	1	0	1	0	1	0	turn off every single light this chick left on.
+sir            8	4	1	2	1	0	0	- Very wise. - Yes, sir.
+sister         6	0	2	2	0	0	2	My sister.
+sit            2	2	0	0	0	0	0	Sit down,before you fall down.
+site           1	0	1	0	0	0	0	That construction site,
+sitting        2	0	0	2	0	0	0	It's just sitting there on the street, waiting to be picked up.
+situation      1	0	0	0	1	0	0	I don't think you fully appreciate the gravity of the situation.
+six            1	0	0	1	0	0	0	- Wait. What guns? - Six shotguns,
+skank          1	0	0	1	0	0	0	Damn. You are one ugly skank.
+skin           3	1	1	0	1	0	0	Her skin gave off heat like a furnace...
+slam           1	0	0	0	0	0	1	Doctor, I don't mean to slam you with questions first thing--
+slap           1	1	0	0	0	0	0	sometimes you wanna slap me outside the head...
+slaughtering   1	0	0	0	0	0	1	They were slaughtering people in the hallways.
+sleep          3	0	0	1	0	0	2	You sleep okay?
+sleeping       1	0	0	0	0	1	0	Item-- I'm still not sleeping well.
+slow           2	0	0	1	1	0	0	Daryl, just slow up a bit. I need to talk to you.
+smack          1	1	0	0	0	0	0	I'm gonna smack him dead.
+smallpox       1	0	0	0	0	0	1	Weaponized smallpox!
+smart          1	0	0	1	0	0	0	to some uppity smart-mouthed bitch.
+smell          5	0	5	0	0	0	0	They see you, smell you and if they catch you, they eat you.
+smoking        1	0	0	1	0	0	0	Sitting on your ass smoking cigarettes?
+sneaking       1	0	1	0	0	0	0	You know the key to surviving? Sneaking in and out, tiptoeing.
+solution       1	0	0	0	0	0	1	They thought they were close to a solution.
+solve          1	1	0	0	0	0	0	Said they were working on how to solve this thing.
+some           48	4	9	8	11	10	6	Try to eat you, take him some flesh at least.
+somebody       10	0	3	1	0	0	6	Somebody did-- I guess when the city got overrun.
+someday        1	0	0	1	0	0	0	Maybe we'll get to steal another one someday.
+somehow        1	0	0	0	0	1	0	But I somehow always missed it.
+someone        5	0	1	1	1	1	1	Not me, but I know someone who would.
+something      33	5	6	6	7	4	5	I would never say something that cruel to her.
+sometimes      5	4	0	1	0	0	0	I don't know why sometimes we guess.
+somewhere      7	0	1	2	0	1	3	We go off somewhere and bump some uglies?
+son            27	9	4	5	5	2	2	son of a bitch you'd ever hear to hear her tell it.
+song           1	0	0	1	0	0	0	Heroes, son, spoken of in song and legend.
+soon           4	1	1	0	0	1	1	They hope you come back real soon.
+sophia         3	0	0	1	1	0	1	Hey, Carol, Sophia, how are y'all this evening?
+sorrow         1	0	0	0	0	0	1	An end to sorrow, grief...
+sorry          30	3	6	11	3	6	1	Look, I'm sorry, man.
+sound          9	4	2	1	1	1	0	"You sound just like my damn father.
+sounds         5	2	1	1	1	0	0	Sounds like they're chasing those idiots up and down every back road we got.
+sour           1	0	0	0	0	0	1	Well, just stick to sour pop there, bud.
+source         1	0	0	1	0	0	0	Hard to pinpoint the source.
+south          1	1	0	0	0	0	0	Highway 18 south GTAAD W217 243.
+sow            1	0	0	0	0	1	0	You reap what you sow.
+speak          5	3	1	1	0	0	0	The least you could do is speak.
+speaking       2	0	0	0	0	1	1	Speaking of which,
+special        3	1	0	1	1	0	0	That vase has something special.
+speed          2	1	0	0	1	0	0	All available units, high speed pursuit
+spend          1	0	0	0	1	0	0	and not spend all of your breath trying to conquer it."
+spent          2	0	0	0	1	1	0	I only spent my entire childhood with my ass in a boat.
+spills         1	0	0	0	1	0	0	We'll see which side spills more blood.
+spit           1	0	0	1	0	0	0	Spit his teeth out on the ground.
+spoken         1	0	0	1	0	0	0	Heroes, son, spoken of in song and legend.
+spoon          1	1	0	0	0	0	0	I hope you left her that spoon collection.
+spot           1	0	0	0	0	1	0	put Lori and Carl in that kind of spot.
+square         1	0	1	0	0	0	0	My god, it's like Times Square down there.
+squeeze        1	0	0	1	0	0	0	Maybe half a dozen geeks can squeeze against it
+squirrel       2	0	0	2	0	0	0	I got some squirrel-- about a dozen or so.
+stadium        1	0	0	0	0	1	0	It is out of the stadium!
+staff          2	0	0	0	1	0	1	The staff took off, just left 'em here to die.
+stage          1	0	0	0	0	0	1	cocoists of a two-stage aerosol ignition
+staircase      1	0	0	1	0	0	0	Staircase is narrow.
+stand          1	0	1	0	0	0	0	If you move now while they're distracted, you stand a chance.
+staring        1	0	1	0	0	0	0	There's a cop staring at me.
+start          9	0	2	3	1	2	1	No, but it'd be a start.
+started        2	0	0	1	0	0	1	When things started to get really bad,
+station        3	1	0	1	0	1	0	Station got its own propane system.
+status         1	0	0	0	0	1	0	Alert status.
+stay           27	6	2	3	8	5	3	What I think, Leon, is that you need to stay focused.
+stayed         5	1	0	0	1	1	2	We just stayed hunkered down.
+staying        6	0	0	1	0	0	5	Being all wily, staying submerged.
+stays          2	0	1	0	0	0	1	You be my wingman. Jacqui stays here.
+steady         1	1	0	0	0	0	0	Steady. It's just a few. Nothing we can't outrun.
+steal          2	1	0	1	0	0	0	Did you steal it from your Grandma Gene's house.
+stem           1	0	0	0	0	0	1	- It restarts the brain?　- No, just the brain stem.
+stepping       1	0	0	1	0	0	0	You see anybody else here stepping up
+stew           1	0	0	1	0	0	0	Let's stew 'em up.
+stick          2	0	1	0	0	0	1	Back at the tank, why'd you stick your neck out for me?
+still          20	6	3	3	1	6	1	Still man, that... that earns me this.
+stings         1	0	0	1	0	0	0	That stings.
+stockade       1	0	0	1	0	0	0	16 months in the stockade--
+stocked        1	0	0	0	1	0	0	I'd have stocked up.
+stolen         2	1	0	1	0	0	0	You know anybody could've broken in here and stolen clothes, right?
+stomp          1	0	0	0	1	0	0	I'm gonna stomp your ass!
+stop           20	0	2	6	7	1	4	Stop it! Dixon, get off him!
+stopped        3	1	0	1	0	0	1	Huge, when they said it, before the broadcast stopped.
+stopping       1	0	0	1	0	0	0	What's stopping you?
+storage        1	0	0	0	0	0	1	But there are cots in storage if you like.
+store          5	0	5	0	0	0	0	I'd feel better if you were out in that store
+stories        1	0	0	1	0	0	0	Just swapping war stories, Ed.
+story          1	0	0	0	1	0	0	- Different story? - Why don't you take a tally?
+strains        1	0	0	0	0	0	1	Ebola strains that could wipe out half the country!
+street         13	4	5	1	3	0	0	The sound draws them,now they're all over the street.
+streets        7	1	4	0	2	0	0	Streets won't fit to be on, and then we'll...
+stretch        1	0	0	0	0	1	0	- Man, that is a stretch right there. - Why?
+strip          2	0	0	2	0	0	0	Yeah, go on, strip it clean.
+strolling      1	0	0	0	1	0	0	I'm not strolling the streets of Atlanta
+stronger       1	0	0	0	0	1	0	We got guns now. We're stronger.
+struck         1	1	0	0	0	0	0	They're struck blind the second they leave a room.
+structure      1	0	0	0	0	1	0	If there's any government left, any structure at all,
+structures     2	0	1	0	0	0	1	Big structures often had drainage tunnels
+stuck          1	0	0	0	1	0	0	just some idiot stuck in a tank.
+studied        1	0	0	0	0	1	0	Too bad I never studied engineering.
+stuff          11	1	2	0	3	0	5	You share your feelings and that kind of stuff?
+stump          1	0	0	0	1	0	0	He cauterized the stump.
+stupid         7	2	1	2	1	0	1	"and you are still too damn stupid to learn how to turn off a switch?
+stupidest      1	0	0	1	0	0	0	I think it is just the stupidest way to break your--
+style          1	0	0	1	0	0	0	Cajun-style kermit legs.
+subbasements   1	0	1	0	0	0	0	into the sewers in case of flooding down in the subbasements.
+subject        2	0	0	0	0	0	2	Test subject 19.
+submerged      1	0	0	1	0	0	0	Being all wily, staying submerged.
+submit         1	0	0	0	0	0	1	You all submit to a blood test.
+such           2	0	1	0	0	0	1	She's still such a kid in some ways.
+suck           2	0	1	1	0	0	0	- I'm sorry, yo. - You suck.
+suckers        1	0	0	1	0	0	0	Little suckers, they know something's up.
+sudden         1	0	0	0	1	0	0	Couldn't get his breath all of a sudden.
+suffering      1	0	0	0	1	0	0	Where's the compensation for their pain and suffering?
+sugar          1	0	1	0	0	0	0	Ain't that right, sugar tizz?
+suggest        2	0	0	0	0	2	0	What do you suggest?
+suggested      1	0	0	0	0	1	0	If one of us suggested, based on a hunch,
+suggesting     1	0	0	0	0	1	0	- I'm not suggesting-- - He's sick. A sick man.
+suicide        1	0	0	0	0	0	1	and committing suicide in the hallways,
+suicides       1	0	0	0	0	0	1	There was a rash of suicides.
+sumbitch       1	1	0	0	0	0	0	- I found you... - Daddy, I got this sumbitch.
+sumbitchs      1	0	0	0	1	0	0	Had enough in him to take out these two sumbitchs.
+sun            2	0	0	1	1	0	0	The sun'll have'em dry in no time.
+sunshine       1	0	1	0	0	0	0	and I'll be all "Sammy sunshine" positive for you.
+sunstroke      1	0	0	0	1	0	0	You had sunstroke. Nobody's blaming you.
+super          1	0	1	0	0	0	0	or the rent or the Super Bowl.
+supplies       1	0	1	0	0	0	0	Look, we came into the city to scavenge supplies.
+supposed       4	0	0	1	1	0	2	If it's supposed to make me feel better, it don't.
+sure           24	4	4	6	7	3	0	Make sure you got a round in the chamber and your safety off.
+surgeries      1	0	0	0	0	1	0	And after all the surgeries and the chemos,
+surprised      2	0	0	1	0	0	1	Well, I'm not surprised after Atlanta fell.
+surprises      1	0	0	0	0	0	1	No surprises.
+surrounded     2	0	2	0	0	0	0	You're surrounded by walkers. That's the bad news.
+survival       1	1	0	0	0	0	0	Here I am, packing survival gear, she's grabbing photo albums....
+survive        1	0	1	0	0	0	0	We survive this by pulling together,
+survived       1	0	0	0	0	0	1	But there was no way he could've survived that. No way.
+surviving      5	1	2	0	2	0	0	We are surviving here. We are day to day.
+suspects       1	1	0	0	0	0	0	Suspects are two male Caucasians.
+swapping       1	0	0	1	0	0	0	Just swapping war stories, Ed.
+swarmed        1	0	0	1	0	0	0	I dropped the bag in Atlanta when I got swarmed.
+swear          1	1	0	0	0	0	0	I mean every woman, I ever let have a key, I swear to God.
+sweep          1	0	0	0	0	1	0	Let's go do our sweep.
+sweet          1	0	0	0	1	0	0	Sweet. Come on, Sophia.
+sweeten        1	0	0	1	0	0	0	sweeten the deal a bit.
+sweetheart     2	0	1	0	0	0	1	Sweetheart, I want you to stay where Dale can see you, okay?
+sweetie        3	0	0	1	0	1	1	Come here, sweetie.
+swim           1	0	0	0	0	1	0	I say swim toward the closest ship,
+swimming       1	0	0	0	0	1	0	Amy is there swimming.
+swing          1	0	0	1	0	0	0	And then this idiot, he takes a swing,
+switch         3	3	0	0	0	0	0	They're born thinking the switch only goes one way.
+synapses       1	0	0	0	0	0	1	Those are synapses,
+system         2	1	0	0	0	0	1	Station got its own propane system.
+table          4	1	0	0	2	0	1	I'll just set this on your side table, ok?
+taco           1	0	1	0	0	0	0	Bad enough I've got this taco-bender on my ass all day.
+tagged         1	1	0	0	0	0	0	I saw you get tagged, man, it scared the hell out of me.
+take           43	6	7	4	17	7	2	Take a moment, eh? Look how sharp it is.
+taken          5	0	0	2	2	0	1	And it is an art, my friend. It is not to be taken lightly.
+takes          3	0	0	2	0	0	1	And then this idiot, he takes a swing,
+taking         4	0	0	2	1	1	0	But if you're gonna go, you're taking bullets.
+talk           15	1	2	6	3	2	1	- He called me Carl. - Son, you know they don't talk.
+talked         1	0	0	0	0	1	0	- You sure? - We talked about it.
+talkie         1	0	0	1	0	0	0	The walkie-talkie, the one in the bag I dropped.
+talking        5	0	0	2	0	2	1	and yes, I am talking about you--
+tally          1	0	0	0	1	0	0	- Different story? - Why don't you take a tally?
+tank           8	1	5	0	2	0	0	Hey, you in the tank.
+tape           2	0	0	0	0	2	0	It's more duct tape than hose.
+taped          1	0	0	0	0	1	0	taped to a red car
+target         1	1	0	0	0	0	0	Goes faster than you think. Especially at target practice.
+tastes         1	0	0	0	0	0	1	That tastes nasty.
+taught         1	0	0	0	1	0	0	boat and he taught me dry lures from day one.
+taxing         1	0	0	0	0	0	1	Dr. Jenner, I know this has been taxing for you
+teach          7	1	0	2	4	0	0	We gotta do it carefully, teach you to respect the weapon.
+teeth          4	0	0	3	1	0	0	When I punched out his front teeth.
+tell           53	8	7	23	4	5	6	I wanna say,"Bitch, you mean to tell me
+telling        5	1	1	1	1	1	0	"telling me to turn off the damn lights."
+terrified      1	0	0	0	0	1	0	Look at mine. We're all terrified.
+territory      1	0	0	0	0	1	0	Crossing 100 miles of hostile territory?
+terrorist      1	0	0	0	0	0	1	in a terrorist attack, for example--
+test           4	0	0	0	0	1	3	Every test.
+texting        1	0	0	1	0	0	0	And texting.
+than           17	3	1	1	6	2	4	There's more of them out there than usual.
+thank          16	2	1	4	3	3	3	Father,we thank thee for this food... Thy blessings...
+thanked        1	0	0	0	0	0	1	It seems to me we haven't thanked our host properly.
+thanks         3	0	1	0	0	2	0	Rick. Thanks.
+that           404	59	63	85	75	54	68	cause I then gotta walk through that house,
+the            577	65	99	95	120	82	116	What's the difference between men and women?
+thee           1	1	0	0	0	0	0	Father,we thank thee for this food... Thy blessings...
+their          14	2	1	0	6	4	1	They wanted me to bring them down, they send their love and they just...
+theirs         1	0	0	0	1	0	0	Anybody could come around and say it was theirs.
+them           46	9	9	9	8	5	6	Hey, we'll get them on one of those video shows, you know,
+themselves     1	0	0	0	1	0	0	But most can't even get to the bathroom by themselves,
+then           21	4	1	1	6	2	7	cause I then gotta walk through that house,
+there          145	17	32	15	19	28	34	the polite version there...
+thermobaric    1	0	0	0	0	0	1	high-impulse thermobaric fuel-air explosives
+these          19	3	4	3	3	5	1	Everybody pitched in on these. They uh...
+they           128	35	27	23	18	13	12	They're born thinking the switch only goes one way.
+thief          1	1	0	0	0	0	0	Some random thief took those too, you think?
+thing          24	7	3	3	3	5	3	The thing is...
+things         27	1	5	5	3	5	8	Things got crazy.
+think          77	12	6	23	14	15	7	You think I was the most closed mouth
+thinking       6	1	1	1	0	3	0	They're born thinking the switch only goes one way.
+thinks         1	0	0	0	0	0	1	does or thinks from the moment of birth
+thirst         3	0	0	3	0	0	0	The guy wouldn't give you a glass of water if you were dying of thirst.
+this           142	25	22	27	21	18	29	- Is this a joke? - No, serious.
+tho            1	1	0	0	0	0	0	You know... I don't actually say that,tho.
+thorough       1	0	0	0	0	0	1	Let me just at least be thorough.
+those          29	3	5	4	5	5	7	Sounds like they're chasing those idiots up and down every back road we got.
+though         2	0	1	1	0	0	0	Next time though, take the safety off.
+thought        17	1	0	5	3	4	4	I thought I heard him say something.
+thoughts       1	1	0	0	0	0	0	Do you express your thoughts?
+threatens      1	0	0	0	1	0	0	Beats on him, threatens to cut off his feet,
+three          4	0	1	1	1	0	1	And three, two, one-- pull it.
+threw          1	0	0	0	1	0	0	Not us. We always threw them back.
+throat         1	0	0	0	1	0	0	I'm gonna kick your nuts up in your throat!
+through        15	4	4	5	2	0	0	cause I then gotta walk through that house,
+throw          2	0	0	1	1	0	0	Could you throw me a bone here, man?
+thrown         1	0	0	1	0	0	0	He's not worth one of your lives, even with guns thrown in.
+thy            1	1	0	0	0	0	0	Father,we thank thee for this food... Thy blessings...
+tiberius       3	1	0	0	1	1	0	翻譯 Tiberius
+tie            2	0	1	0	1	0	0	Good, just tie it like around your finger.
+tied           1	0	0	0	1	0	0	No, he tied at least three.
+tight          1	0	1	0	0	0	0	It's tight down there.
+till           3	1	0	1	0	0	1	Just have to wait 'em out till morning.
+time           52	7	9	11	7	7	11	pissed at me all the time, and I don't know why.
+timeout        1	0	0	0	1	0	0	This timeout.
+times          5	0	2	1	1	0	1	My god, it's like Times Square down there.
+tin            1	0	0	0	0	1	0	We could hang some more tin cans.
+tiny           1	0	0	0	0	0	1	One tiny moment--
+tiptoeing      1	0	1	0	0	0	0	You know the key to surviving? Sneaking in and out, tiptoeing.
+tired          1	0	1	0	0	0	0	'cause I'm getting sick and tired of hearing mine.
+tissue         1	0	0	0	1	0	0	Wrapping paper, color tissue, anything?
+tizz           1	0	1	0	0	0	0	Ain't that right, sugar tizz?
+today          7	6	0	0	1	0	0	I never should have fired that gun today.
+together       7	0	2	0	1	4	0	We survive this by pulling together,
+toilet         1	0	0	0	1	0	0	We're out of toilet paper?
+told           16	1	0	5	5	1	4	Military protection food, shelter... They told people to go there.
+tolerance      1	0	0	0	0	1	0	The line's pretty clear. Zero tolerance for walkers,
+tomorrow       4	0	0	1	1	2	0	tomorrow I'll teach you something special.
+tonight        3	0	0	0	1	2	0	...Because of you my children will eat tonight.
+too            34	7	4	4	6	6	7	"and you are still too damn stupid to learn how to turn off a switch?
+took           9	1	0	1	4	2	1	Some random thief took those too, you think?
+toolbag        1	0	1	0	0	0	0	Hey, see that hacksaw over there in that toolbag?
+tools          3	0	0	3	0	0	0	I never like lending tools.
+topic          1	0	0	1	0	0	0	I'd like to have a calm discussion on this topic.
+topside        2	0	0	0	0	0	2	There's no point. Everything topside is locked down.
+tough          3	0	0	0	3	0	0	No matter how tough he is.
+toughest       1	0	0	0	1	0	0	Toughest asshole I ever met, my brother.
+tourniquet     1	0	0	0	1	0	0	He must have used a tourniquet-- maybe his belt.
+toward         2	0	0	0	0	2	0	that we head toward that city,
+town           3	0	2	1	0	0	0	You the new sheriff come riding in to clean up the town?
+toy            1	1	0	0	0	0	0	That's right. It's not a toy.
+track          1	0	0	0	1	0	0	Time-- it's important to keep track, isn't it?
+tracking       1	0	0	1	0	0	0	I've been tracking this deer for miles.
+trade          3	0	0	0	2	0	1	Sounds like an even trade.
+traded         1	0	0	0	0	0	1	And if I could've traded places with him, I would have.
+tragedy        1	0	0	0	0	1	0	The tragedy of their loss cannot be overstated.
+trail          1	0	0	0	0	1	0	So you can follow our trail.
+trap           3	0	0	2	1	0	0	We left him like an animal caught in a trap.
+trapped        4	0	3	1	0	0	0	We're trapped in the department store.
+trash          1	0	1	0	0	0	0	No dumb-as-shit, inbred white-trash fools either.
+travel         2	2	0	0	0	0	0	But enough to travel.
+treat          1	0	0	0	0	0	1	How can you treat me like this?
+tree           1	0	0	0	0	1	0	Hey, another damn tree.
+trickle        1	0	0	0	1	0	0	The vatos trickle in to check on their parents, their grandparents.
+trigger        2	1	1	0	0	0	0	You pull the trigger, you have to mean it.
+trouble        3	0	1	0	2	0	0	We've got enough trouble.
+trucks         2	1	1	0	0	0	0	Out on the loading dock, hauling trucks.
+true           2	0	0	0	1	0	1	This true?
+trust          3	0	0	0	1	2	0	Question is, do you trust that man's word?
+truth          1	0	0	1	0	0	0	- We could lie. - Or tell the truth.
+try            15	5	3	1	1	1	4	Look, man, I may have a... fail to amuse with my sermon, but I did try.
+trying         8	0	3	2	2	0	1	I was trying to be quiet.
+tunnel         1	0	1	0	0	0	0	Yeah, we've got ourselves a sewer tunnel.
+tunnels        1	0	1	0	0	0	0	Big structures often had drainage tunnels
+turd           1	0	0	0	1	0	0	I told you, this little turd and his douche bag friends
+turkey         1	0	0	0	0	1	0	Hell, I can hit a turkey between the eyes from this distance.
+turn           7	5	0	2	0	0	0	I never met a woman who knew how to turn off a light.
+turned         1	0	0	0	0	0	1	Why is everything turned off?
+turning        1	1	0	0	0	0	0	She's good. She's good at turning off lights.
+twice          1	0	1	0	0	0	0	Yeah? Well, screw you twice.
+two            13	1	2	1	6	0	3	Suspects are two male Caucasians.
+uglies         1	0	1	0	0	0	0	We go off somewhere and bump some uglies?
+ugly           2	0	0	2	0	0	0	Merle! Get your ugly ass out here!
+under          1	0	1	0	0	0	0	What about under the streets? The sewers?
+underground    2	0	0	0	0	1	1	Living underground doesn't help,
+understand     9	1	1	2	2	2	1	You understand...
+understatement 1	0	1	0	0	0	0	Now there's an understatement.
+unicorns       1	0	1	0	0	0	0	Unicorns, dragons.
+uniform        1	0	0	0	0	0	1	when I washed your uniform I found this in your pocket.
+unique         1	0	0	0	0	0	1	The thing that makes you unique.
+unit           4	4	0	0	0	0	0	Unit 1, Unit 3.
+units          3	2	0	0	0	0	1	All available units, high speed pursuit
+unjustified    1	0	1	0	0	0	0	Not that was entirely unjustified.
+unknown        1	1	0	0	0	0	0	broadcasting a person unknown, please respond.
+unless         1	0	0	0	1	0	0	Unless I've misread the signs,
+unload         1	0	0	0	1	0	0	Unload on their asses, ese.
+unloading      1	0	0	0	1	0	0	What's to stop my people from unloading on you
+until          2	0	1	0	1	0	0	Look, until now I always came here by myself--
+unwrapped      1	0	0	0	1	0	0	You don't give a gift unwrapped.
+uppity         1	0	0	1	0	0	0	to some uppity smart-mouthed bitch.
+upstairs       1	1	0	0	0	0	0	Daddy'll be upstairs.
+use            7	0	1	3	0	1	2	You may have occasion to use it.
+used           4	0	1	0	2	0	1	He used to be like us--
+useless        1	0	0	0	0	1	0	useless dead flesh.
+uses           1	0	0	0	0	0	1	The system is dropping all the nonessential uses of power.
+using          1	1	0	0	0	0	0	Stupid... using a gun...
+usual          1	1	0	0	0	0	0	There's more of them out there than usual.
+vacuum         1	0	0	0	0	0	1	The vacuum-pressure effect ignites the oxygen
+van            5	0	0	3	1	1	0	Now that cube van of yours--
+vary           1	0	0	0	0	0	1	The resurrection times vary wildly.
+vase           1	1	0	0	0	0	0	That vase has something special.
+vato           4	0	0	1	3	0	0	Yeah, crazy vato just got into town.
+vatos          3	0	0	0	3	0	0	The vatos trickle in to check on their parents, their grandparents.
+vehicle        1	1	0	0	0	0	0	I'll go. Give me a vehicle.
+vengeance      1	0	0	0	1	0	0	He's gonna be taking some vengeance back to camp.
+venison        1	0	0	1	0	0	0	cook us up some venison.
+version        2	2	0	0	0	0	0	Anyway, uh... Polite version...
+very           7	1	0	2	1	1	2	- Very wise. - Yes, sir.
+vest           1	1	0	0	0	0	0	We'll get you a new vest.
+vests          1	0	0	0	0	1	0	Gonna have to start wearing reflective vests out here.
+vibrator       1	0	0	1	0	0	0	I miss my vibrator.
+video          2	1	0	0	0	0	1	Hey, we'll get them on one of those video shows, you know,
+view           1	0	0	0	0	0	1	Enhanced internal view.
+vigil          2	0	0	0	0	0	2	Death? That's what this is, a vigil?
+village        1	0	0	0	1	0	0	like a village priest saying mass.
+viral          1	0	0	0	0	0	1	It could be microbial, viral, parasitic, fungal.
+voice          6	4	2	0	0	0	0	And that's when the exorcist voice pops out.
+volunteered    2	0	1	0	0	0	1	She volunteered to go
+vote           1	0	1	0	0	0	0	I vote me. Anybody else?
+voted          1	0	0	0	1	0	0	He is not judge and jury. Who voted you king boss, huh?
+vultures       1	0	0	1	0	0	0	Vultures.
+wailing        1	0	0	1	0	0	0	Are you crazy, driving this wailing bastard up here?
+wait           19	1	3	3	2	0	10	Just have to wait 'em out till morning.
+waiting        4	0	2	1	0	0	1	I bet. That's what you get for keeping me waiting.
+waits          1	0	0	0	1	0	0	While Daryl waits here in the alley,
+wake           7	2	0	3	0	1	1	Wake, wake up!
+walk           5	2	0	3	0	0	0	cause I then gotta walk through that house,
+walked         2	0	0	0	2	0	0	He could have walked away, but he didn't.
+walker         6	1	0	2	1	2	0	For him, you need glasses, that was a walker.
+walkers        9	1	2	0	1	3	2	The walkers.
+walkie         1	0	0	1	0	0	0	The walkie-talkie, the one in the bag I dropped.
+walkies        2	0	0	2	0	0	0	- These are our walkies? - Yeah.
+walking        2	0	0	1	0	0	1	Walking into our home, finding an empty house,
+walks          1	0	0	0	1	0	0	Everybody walks.
+walls          1	1	0	0	0	0	0	You see the framed photos on the walls?
+walsh          1	1	0	0	0	0	0	This is officer Shane Walsh,
+wander         2	1	1	0	0	0	0	Probably wander off by morning.
+wandered       1	0	0	0	0	0	1	The way he just wandered off like that.
+wandering      1	0	0	0	1	0	0	Just wandering out in the streets, maybe passing out?
+wanna          5	4	0	1	0	0	0	You know what I wanna say.
+want           55	3	7	9	12	13	11	everything I say makes her impatient,like she didn't want to hear it after all.
+wanted         4	1	0	1	0	1	1	They wanted me to bring them down, they send their love and they just...
+wants          7	1	0	0	3	3	0	You see, this is -- this is when Reverend Shane wants to
+war            1	0	0	1	0	0	0	Just swapping war stories, Ed.
+warming        2	2	0	0	0	0	0	She'll bitch about global warming.
+warn           3	2	0	1	0	0	0	He couldn't hear me. I couldn't warn him.
+was            87	6	10	18	17	9	27	You think I was the most closed mouth
+washboard      1	0	0	1	0	0	0	Scrubbing on a washboard
+washed         2	0	0	1	0	0	1	You washed my clothes?
+washing        2	0	2	0	0	0	0	The smell's washing off, isn't it?
+wasn           8	1	3	1	1	2	0	- It wasn't a man. - You shot him.
+wasting        1	0	1	0	0	0	0	Man, you wasting bullets we ain't even got!
+watch          16	2	0	1	6	5	2	We ask you to watch over us in these crazy days.
+watching       2	1	1	0	0	0	0	I'm mean watching the same crap every time I come in here.
+water          9	1	0	2	2	2	2	Hot water!
+wave           1	0	0	0	0	0	1	that produces a blast wave of significantly greater power
+way            42	1	9	10	7	2	13	They're born thinking the switch only goes one way.
+wayne          2	0	2	0	0	0	0	Wayne Dunlap.
+ways           6	2	3	1	0	0	0	just figured out that the light switch see, goes both ways,"
+weak           2	0	1	0	1	0	0	Weak.
+weaker         1	0	0	0	0	1	0	That makes us weaker.
+weapon         1	1	0	0	0	0	0	We gotta do it carefully, teach you to respect the weapon.
+weaponized     1	0	0	0	0	0	1	Weaponized smallpox!
+wearing        1	0	0	0	0	1	0	Gonna have to start wearing reflective vests out here.
+week           2	1	0	0	0	1	0	And I've been saying for a week,
+weird          1	0	0	0	1	0	0	You are so weird.
+welcome        7	0	2	2	0	0	3	Glenn. You're welcome.
+welded         1	0	0	0	1	0	0	Welded all the doors shut except for one entrance.
+well           38	2	5	17	3	5	6	Well,listen...
+went           13	1	1	2	3	3	3	Went off a few minutes.
+were           56	4	6	7	16	8	15	We saw your bandage and that's why we were afraid of.
+weren          1	0	0	0	1	0	0	You weren't there. Ed was out of control.
+west           1	1	0	0	0	0	0	18, 2 miles west of Interstate 85
+wet            1	0	0	0	1	0	0	- Wet. - You're kidding.
+what           229	23	24	47	43	35	57	What's the difference between men and women?
+whatever       2	0	1	0	1	0	0	- It wasn't my intention. - Yeah, whatever. Yeehaw.
+when           38	7	5	8	4	2	12	You see, this is -- this is when Reverend Shane wants to
+whenever       1	1	0	0	0	0	0	lately whenever I try...
+where          29	1	10	3	9	3	3	That's where we were heading.
+whether        2	0	0	0	0	2	0	whether I like it or not.
+which          3	0	0	0	2	1	0	We'll see which side spills more blood.
+whichever      1	0	0	0	1	0	0	Whichever direction I go,
+while          10	2	2	1	2	2	1	But then after a while...
+whim           1	0	0	1	0	0	0	What I did was not on a whim.
+white          5	0	2	2	1	0	0	No dumb-as-shit, inbred white-trash fools either.
+who            24	4	4	1	9	3	3	I never met a woman who knew how to turn off a light.
+whoa           5	0	2	0	2	0	1	Whoa! Not dead!
+whoever        2	0	2	0	0	0	0	- No. - Listen, whoever you are,
+whole          1	0	0	0	0	1	0	Their roots will gouge the whole boat.
+why            53	6	7	8	18	5	9	I don't know why sometimes we guess.
+wide           1	0	0	0	0	0	1	facility-wide decontamination will occur.
+wife           16	4	1	1	2	3	5	My wife and son.
+wildfire       1	0	0	0	0	1	0	It's day 194 since Wildfire was declared
+wildly         1	0	0	0	0	0	1	The resurrection times vary wildly.
+will           26	5	2	4	7	2	6	後期/特效 WiLL
+william        2	1	0	0	1	0	0	William. He said his name today...
+willing        2	0	0	1	1	0	0	I'm willing to share my secrets.
+wily           1	0	0	1	0	0	0	Being all wily, staying submerged.
+win            1	0	0	0	0	0	1	You win.
+winding        3	0	0	0	2	1	0	I see you every day, the same time, winding that thing
+window         1	0	0	0	0	0	1	We've hit the 30-minute window. I am recording.
+windows        2	1	0	0	1	0	0	Get away from the windows.
+wine           2	0	0	0	0	0	2	children have a little bit of wine with dinner.
+wingman        1	0	1	0	0	0	0	You be my wingman. Jacqui stays here.
+winnebago      1	0	0	0	1	0	0	Come on, make your way to the Winnebago!
+wipe           1	0	0	0	0	0	1	Ebola strains that could wipe out half the country!
+wiring         1	0	0	0	0	0	1	Somewhere in all that organic wiring,
+wise           2	1	0	1	0	0	0	- Very wise. - Yes, sir.
+wish           1	0	0	0	0	1	0	Wish I could have done it a month ago,
+wishing        1	0	0	1	0	0	0	wishing for one of your mama's haircuts.
+with           84	13	10	17	23	11	10	- That would be bad. - Yeah, go with the uh...
+within         1	0	1	0	0	0	0	Stay within shouting distance.
+without        3	0	0	1	0	2	0	Got no power without it. Sorry, Glenn.
+withstand      1	0	0	0	0	0	1	Those doors are designed to withstand a rocket launcher.
+woefully       1	0	0	0	1	0	0	I told you how it has to be. Are you woefully deaf?
+woke           1	1	0	0	0	0	0	I woke up today.
+woman          2	2	0	0	0	0	0	I never met a woman who knew how to turn off a light.
+women          4	2	0	1	0	1	0	What's the difference between men and women?
+won            25	6	5	3	4	4	3	You try anything... I will kill you with it,and don't you think I won't.
+wonder         1	1	0	0	0	0	0	Sometimes I wonder if you even care about us at all.
+wondered       2	0	0	1	1	0	0	I wondered where that went.
+wondering      1	0	1	0	0	0	0	You had me wondering.
+woods          1	0	0	0	0	1	0	Last night walkers came out of the woods.
+word           5	0	0	2	3	0	0	Word to the wise--
+words          3	0	0	3	0	0	0	Words can be meager things.
+work           12	1	2	3	4	1	1	Come on, son. You know best how to work this thing,
+worked         3	1	1	0	0	0	1	Haven't worked up to it yet.
+working        3	1	0	0	0	1	1	Said they were working on how to solve this thing.
+works          1	0	0	0	0	1	0	I know how the safety works.
+workstations   2	0	0	0	0	0	2	Vi, power down the main screen and the workstations.
+world          8	1	1	1	2	1	2	like World's craziest police chases, what do you think?
+worried        4	0	0	1	3	0	0	I'm not worried.
+worry          3	1	0	1	0	1	0	I don't want you to worry.
+worrying       2	0	2	0	0	0	0	worrying about bills
+worse          5	0	0	0	1	2	2	No worse than being
+worst          1	0	0	0	1	0	0	The worst kind-- plunderers,
+worth          9	0	2	3	3	1	0	- All right? It ain't worth it.
+would          39	9	5	10	4	6	5	This look and loathing you would not believe.
+wouldn         15	1	1	4	4	2	3	maybe we wouldn't have so much global warming."
+wound          5	3	0	2	0	0	0	- What? - What kind of wound?
+wounded        1	1	0	0	0	0	0	One Lincoln county officer is wounded.
+wrapping       1	0	0	0	1	0	0	Wrapping paper, color tissue, anything?
+wrath          1	0	0	0	0	0	1	Or the wrath of god?
+wrong          11	0	1	2	3	3	2	That is just evil. What is wrong with you?
+yard           1	0	0	0	1	0	0	I picked them up from Satan at a yard sale.
+yards          1	0	1	0	0	0	0	There's an alley up the street, maybe 50 yards.
+yeah           82	14	22	24	10	9	3	- Is that right? - Yeah, baby.
+years          4	1	0	0	1	1	1	I haven't done this for years.
+yeehaw         1	0	1	0	0	0	0	- It wasn't my intention. - Yeah, whatever. Yeehaw.
+yell           1	0	1	0	0	0	0	Something happens, yell down to us,
+yelling        1	1	0	0	0	0	0	"Always,always yelling about the power bill,"
+yes            19	6	3	7	0	1	2	- Very wise. - Yes, sir.
+yesterday      1	0	0	0	0	1	0	If you heard me yesterday, you may be coming here.
+yet            4	1	0	2	1	0	0	Haven't worked up to it yet.
+you            892	124	133	198	175	123	139	Alright, Reverend Shane's preaching to you now, boy.
+young          1	0	0	0	0	0	1	There you are, young lad.
+younger        1	1	0	0	0	0	0	He's a little younger... than your boy.
+your           142	21	18	32	30	17	24	you've been hearing this your entire　life
+yours          6	0	0	2	4	0	0	Now that cube van of yours--
+yourself       7	0	0	2	4	1	0	In and out, no problem. You said so yourself.
+yuck           1	0	0	0	0	0	1	- Good boy. - Yuck.
+yum            1	0	0	1	0	0	0	- No, yum! - No, he's right. Eww.
+yyets          6	1	1	1	1	1	1	YYeTs人人影視誠意奉獻
+zero           2	0	0	0	0	1	1	The line's pretty clear. Zero tolerance for walkers,
+zhanginfo      2	0	1	1	0	0	0	翻譯 憶 zhanginfo
+zone           3	0	0	0	0	1	2	That is right. But it's away from the hot zone.
+zoning         1	0	1	0	0	0	0	I worked in the city zoning office.
